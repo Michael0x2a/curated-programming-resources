@@ -14,7 +14,7 @@ This page is still a work-in-progress! Some sections may currently be incomplete
 
 Any contributions are welcome! To suggest a change, either make a pull request or submit an issue using the issue tracker to the right.
 
-## Index 
+## Table of contents 
 
 - [General resources](#general-resources)
     - [Links to other big lists](#links-to-other-big-lists)
