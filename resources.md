@@ -2,13 +2,20 @@
 
 ## Introduction
 
-This page is meant to start as a **curated** list of resources for getting started in various programming languages and technologies. It doesn't try and list every single resource available, and instead links resources that are guaranteed to be high-quality.
+This page is meant to start as a **curated** list of resources for getting started in various programming languages and technologies. It doesn't try and list every single resource available, and instead links to resources that are guaranteed to be high-quality.
 
 If you're not sure where to start and which language to learn, some good beginner languages are:
 
-- Python (general-purpose)
-- Java (general-purpose; Android development)
-- HTML/CSS/Javascript (websites and webapps)
+- [Python](#python) (general-purpose; scientific and mathematical computing)
+- [Java](#java) (general-purpose; Android development)
+- [HTML/CSS/JavaScript](#html-css-and-javascript) (websites and webapps)
+- [Scratch](#scratch) (for younger children)
+
+Python and Java are both languages that are [commonly used to teach programming](http://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-us-universities/fulltext) to beginners in schools and universities, and so will have a wide variety of resources available to help you learn. They're also both widely used in the industry and so are useful languages to have in your toolbelt.
+
+Web development has been very popular lately, so there are many resources for learning HTML, CSS, and JavaScript, also making it suitable for learning. It also requires little to no installation and configuration on your computer. All you need is a text editor to write code -- the code will run on your web browser.
+
+Scratch is a little different from other languages. It was designed from the ground up to be easy to use and learn -- instead of typing text, you drag and connect together "blocks" to form programs, making it a very visual language. As a result, Scratch is a good language especially for younger children (elementary schoolers, middle schoolers) or for people who dislike typing.
 
 ### Warning 
 
@@ -26,12 +33,14 @@ Any contributions are welcome! To suggest a change, either make a pull request, 
     - [C++](#c-1)
     - [C#](#c-sharp)
     - [Haskell](#haskell)
-    - [HTML, CSS, and Javascript](#html-css-and-javascript)
+    - [HTML, CSS, and JavaScript](#html-css-and-javascript)
     - [Lisp (Scheme, Common Lisp, Clojure, etc)](#lisp-scheme-common-lisp-clojure-etc)
     - [Java](#java)
     - [Perl](#perl)
+    - [PHP](#php)
     - [Python](#python)
     - [Ruby](#ruby)
+    - [Scratch](#scratch)
 - [Other topics](#other-topics)
     - [Developing on specific platforms](#developing-on-specific-platforms)
         - [Android](#android)
@@ -59,26 +68,32 @@ You can also find a meta "list of programming resources" aggregator here: http:/
 
 This is an increasingly popular way for universities and professionals to help guide the next generation of programmers, and as such, new resources like this are popping up all the time.
 
-- [Codecademy](http://www.codecademy.com/) - offers free online courses in several different languages. However, Codecademy does have a tendency to teach only basic syntax, so you may need work through more tutorials after finishing Codecademy.
-- [Coursera](https://www.coursera.org/) - offers free online courses in many different fields from several different well-known universities.
-- [Udacity](http://www.udacity.com/) - offers free computer science courses taught by industry experts, including reddit co-founder Steve Huffman.
+- [Codecademy](http://www.codecademy.com/) - offers free online courses in several different languages. However, Codecademy does have a tendency to teach only basic syntax, so you may need work through more tutorials after finishing Codecademy. Focuses mainly on web development, Ruby, and Python.
+- [Coursera](https://www.coursera.org/) - offers free online courses in many different fields from several different well-known universities. New courses are added every quarter, and content from old courses is typically archived. Because many courses appear to be new/may be a one-time thing, this page will not link to courses on Coursera unless it appears to be stable.
+- [Udacity](http://www.udacity.com/) - offers free computer science courses taught by industry experts. Udacity offers two kinds of courses -- regular courses and nanodegrees. Regular courses are free. Regular courses with one-on-one tutoring/code review requires a monthly fee. Nanodegrees are typically for people with some prior coding experience, and cost more money.
 - [edX](https://www.edx.org/) - a joint effort between MIT, Harvard, and Berkeley to provide free online versions of some of their courses.
-- [OpenCulture](http://www.openculture.com/computer_science_free_courses) - similar to all of the above.
-- [MIT's OpenCourseWare](http://ocw.mit.edu/index.htm) - static course materials taught at MIT.
-- [Khan Academy](https://www.khanacademy.org/) - contains a wide variety of courses in addition to computer science.
+- [OpenCulture](http://www.openculture.com/computer_science_free_courses) - similar to all of the above. Video lectures are typically available on iTunes or Youtube. Typically does **not** require you to complete assignments, unlike many other online courses.
+- [MIT OpenCourseWare](http://ocw.mit.edu/index.htm) - static course materials taught at MIT. Unless otherwise noted, most content from this website tends to be very rigorous and fast-paced.
+- [Khan Academy](https://www.khanacademy.org/) - contains a few courses on programming and computer science; does contain many more courses on all kinds of topics (especially math).
 - [Stanford Engineering Everywhere](http://see.stanford.edu/see/courses.aspx) - static course materials taught at Stanford.
 
-The following websites also contain a wide variety of tutorials for many different topics, but frequently require payment.
+The following websites also contain a wide variety of tutorials for many different topics, but require payment and registration before you can access their courses.
 
 - [Team Treehouse](http://teamtreehouse.com/) - focuses on web and iOS development.
 - [Lynda](http://www.lynda.com/) - also includes courses on design, animation, video, business, and more.
 - [PluralSight](http://www.pluralsight.com/) - similar to Lynda, but with a focus on developer and IT courses.
 
+In general, edX, OpenCulture, MIT OpenCourseware, and Stanford Engineering Everywhere tend to contain more rigorous, thorough, and demanding courses, whereas Codecademy and Khan Academy tend to focus on giving a more gentle introduction to programming. Coursera and Udacity tend to vary between these two extremes.
+
 ## Programming Languages
 
 ### C
 
-- Online courses: N/A
+- Online courses:
+    - MIT Open Courseware has a few:
+        - [Practical Programming in C](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/) - for beginners.
+        - [Introduction to C Memory Management and C++ Object-Oriented Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/) - geared towards people with prior experience in a programming language that is not C or C++.
+        - [Effective Programming in C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/) - similar to the above.
 - Interactive tutorials:
     - [Learn-C](http://learn-c.org) - an interactive online guide that teaches you basic C step-by-step.
 - Exercises: N/A
@@ -96,7 +111,15 @@ The following websites also contain a wide variety of tutorials for many differe
 
 - Online courses:
     - [Google's C++ Class](https://developers.google.com/edu/c++/) - via Google for Education.
-    - [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) - via MIT OpenCourseware
+    - [C++ for C Programmers](https://www.coursera.org/course/cplusplus4c) - via Coursera
+    - MIT Open Courseware has a few:
+        - [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) - for beginners, is fast-paced.
+        - [Introduction to C Memory Management and C++ Object-Oriented Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/) - geared towards people with prior experience in a programming language that is not C or C++.
+        - [Effective Programming in C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/) - similar to the above.
+    - Stanford's 3-part "Introduction to Computer Science" series for beginners. The first course teaches Java, the latter two teaches C and C++.
+        - [Programming Methodology](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
+        - [Programming Abstractions](http://see.stanford.edu/see/courseinfo.aspx?coll=11f4f422-5670-4b4c-889c-008262e09e4e)
+        - [Programming Paradigms](http://see.stanford.edu/see/courseinfo.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee)
 - Interactive tutorials:
     - [C++ Interactive Exercises](http://nova.umuc.edu/~jarc/sdsd/) - an introduction to basic C++. Is a cross between an interactive tutorial and an online book.
 - Exercises: N/A
@@ -129,7 +152,8 @@ The following websites also contain a wide variety of tutorials for many differe
 
 ### Haskell
 
-- Online courses: N/A
+- Online courses:
+    - edX's [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x#.VJw54f-kAA) - assumes familiarity with a non-functional programming language (Java, Python, C#, C++, etc).
 - Interactive tutorials:
     - [Try Haskell](http://tryhaskell.org/) - an interactive guide that teaches basic Haskell.
 - Exercises:
@@ -146,28 +170,34 @@ The following websites also contain a wide variety of tutorials for many differe
 ### HTML, CSS, and JavaScript
     
 - Online courses:
-    - [Codecademy](http://www.codecademy.com/) has several courses related to web development.
+    - Codecademy has several courses related to web development.
         - [Make a website](http://www.codecademy.com/skills/make-a-website)
         - [Make an interactive website](http://www.codecademy.com/skills/make-an-interactive-website)
         - [HTML & CSS](http://www.codecademy.com/tracks/web)
-        - [Javascript](http://www.codecademy.com/tracks/javascript)
+        - [JavaScript](http://www.codecademy.com/tracks/javascript)
         - [jQuery](http://www.codecademy.com/tracks/jquery)
+    - So does Udacity:
+        - [Intro to HTML and CSS](https://www.udacity.com/course/ud304)
+        - [JavaScript Basics](https://www.udacity.com/course/ud804) - does require some prior programming experience.
+    - Open Culture's [Building Dynamic Websites](http://cs75.tv/2010/fall/) - hosted by Harvard.
+    - Khan Academy has a series of [three courses](https://www.khanacademy.org/computing/computer-programming) on introductory Javascript that focuses on drawing graphics and animations, and making games.
+    - Team Treehouse has a series of courses on [HTML](teamtreehouse.com/features/html), [CSS](http://teamtreehouse.com/features/css), and [Javascript](http://teamtreehouse.com/features/javascript) - allows a free 14-day trial, but later requires payment.
 - Interactive tutorials:
     - [CSS3, please!](http://css3please.com/) - an interactive website that lets you dynamically change CSS rules to style an element on-screen. Not for beginners, but is a good way to discover advanced applications of CSS.
 - Exercises:
     - [CSS Diner](http://flukeout.github.io/) - a series of exercises on using CSS selectors effectively.
 - Video tutorials: N/A
 - Books and tutorials (online):
-    - [MDN](https://developer.mozilla.org/en-US/docs/Web) - a series of tutorials covering HTML, CSS, Javascript, and more.
+    - [MDN](https://developer.mozilla.org/en-US/docs/Web) - a series of tutorials covering HTML, CSS, JavaScript, and more.
     - [HtmlDog](http://www.htmldog.com/) - similar to the above.
-    - [Eloquent Javascript](http://eloquentjavascript.net/) - a book that teaches you how to write idiomatic and clean JavaScript. Assumes prior experience with Javascript/another programming language.
-    - [A Re-introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) - a guide which gives a thorough and detailed overview of Javascript.
-    - [Javascript Frameworks Resources and Tutorials](http://resrc.io/list/18/javascript-frameworks/) - Currently features Angular.js, Backbone.js, D3.js, Dojo, Ember.js, Express.js, jQuery, Knockout.js, and Meteor.
+    - [Eloquent JavaScript](http://eloquentjavascript.net/) - a book that teaches you how to write idiomatic and clean JavaScript. Assumes prior experience with JavaScript/another programming language.
+    - [A Re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) - a guide which gives a thorough and detailed overview of JavaScript.
+    - [JavaScript Frameworks Resources and Tutorials](http://resrc.io/list/18/javascript-frameworks/) - Currently features Angular.js, Backbone.js, D3.js, Dojo, Ember.js, Express.js, jQuery, Knockout.js, and Meteor.
     - More free books:
         - [HTML and CSS](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#html--css)
-        - [Javascript](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#javascript)
+        - [JavaScript](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#javascript)
 - Books (paper):
-    - [Javascript: The Good Parts](http://www.amazon.com/gp/product/0596517742) - a short book that covers the core aspects of Javascript as well as info on writing idiomatic and clean JavaScript.
+    - [JavaScript: The Good Parts](http://www.amazon.com/gp/product/0596517742) - a short book that covers the core aspects of JavaScript as well as info on writing idiomatic and clean JavaScript.
     
 ### Lisp (Scheme, Common Lisp, Clojure, etc)
 
@@ -197,8 +227,14 @@ The following websites also contain a wide variety of tutorials for many differe
 ### Java
 
 - Online courses:
-    - [Udacity's Intro to Java Programming](https://www.udacity.com/course/cs046) course - the instructor videos and exercises are free; one-on-one tutoring and code reviews require payment.
-    - [Introduction to Programming in Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/index.htm) - via MIT OpenCourseware.
+    - [Intro to Java Programming](https://www.udacity.com/course/cs046) - via Udacity. An objects-first introduction to Java.
+    - MIT Open Courseware:
+        - [Introduction to Programming in Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/index.htm)
+        - [Introduction to Computers and Engineering Problem Solving](http://ocw.mit.edu/courses/civil-and-environmental-engineering/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/) - for beginners, emphasizes practical application of Java.
+    - Stanford's 3-part "Introduction to Computer Science" series for beginners. The first course teaches Java, the latter two teaches C and C++.
+        - [Programming Methodology](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
+        - [Programming Abstractions](http://see.stanford.edu/see/courseinfo.aspx?coll=11f4f422-5670-4b4c-889c-008262e09e4e)
+        - [Programming Paradigms](http://see.stanford.edu/see/courseinfo.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee)
 - Interactive tutorials: 
     - [Learn Java](http://www.learnjavaonline.org/) - an interactive tutorial that teaches basic Java.
 - Exercises: 
@@ -232,9 +268,31 @@ The following websites also contain a wide variety of tutorials for many differe
     - [Learning Perl](http://www.amazon.com/Learning-Perl-Randal-L-Schwartz/dp/1449303587) - another introductory text.
     - Perl.org hosts a [list of recommended books](http://www.perl.org/books/library.html), many of which are available online for free.
 
+### PHP
+
+Note: while PHP can be very convenient, quick, and easy to use, it's also a language viewed negatively by many programmers. (See [PHP: a fractal of bad design](http://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)). If you do decide to learn PHP, just be aware of the fact that people will probably make fun of you at one point or another. If you're ok with that, more power to you.
+
+- Online courses: 
+    - Codecademy's [PHP track](http://www.codecademy.com/en/tracks/php)
+    - Team Treehouse's [PHP course](http://teamtreehouse.com/features/php) - allows a free 14-day trial, but later requires payment.
+- Interactive resources:
+- Exercises:
+- Video tutorials: N/A
+- Books and tutorials (online):
+- Books (paper):
+- Other:
+
+
 ### Python
     
-- Online courses: N/A
+- Online courses: 
+    - Codecademy's [Python track](http://www.codecademy.com/tracks/python) - for beginners; self-paced.
+    - Udacity's [Programming Foundations with Python](https://www.udacity.com/course/ud036) - requires some prior programming experience; focuses on object-oriented programming.
+    - Coursera's [Programming for Everybody (Python)](https://www.coursera.org/course/pythonlearn) - for beginners; requires registration.
+    - edx's [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-0#.VJw5pv-kAA).. The companion book can be [found here](http://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-0). The course is designed for beginners, part of a 2-part series, is self-paced, and has an emphasis on computation and data science.
+        -   MIT Open Courseware also offers a gentler "lead-in" course designed for those with no programming background that you can take before taking the above: [Building Programming Experience: A Lead-In to 6.001](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/).
+    - MIT Open Courseware's [A Gentle Introduction to Programming Using Python](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/) - for beginners.
+    - Team Treehouse's [Python course](http://teamtreehouse.com/features/python) - allows a free 14-day trial, but later requires payment.
 - Interactive resources:
     - [LearnPython](http://learnpython.org) - an interactive online guide that teaches you basic Python step-by-step.
     - [Try Python](http://www.trypython.org/) - another interactive online guide.
@@ -259,7 +317,9 @@ You can find a more comprehensive list here: http://www.reddit.com/r/learnpython
 
 ### Ruby
 
-- Online courses: N/A
+- Online courses: 
+    - Codecademy's [Ruby track](http://www.codecademy.com/tracks/ruby). For beginners, self-paced. 
+    - Team Treehouse's [Ruby course](http://teamtreehouse.com/features/ruby) - allows a free 14-day trial, but later requires payment.
 - Interactive tutorials:
     - [RubyMonk](http://rubymonk.com/) - interactive tutorials to help you learn basic and advanced Ruby.
     - [TryRuby](http://tryruby.org) - an interactive online guide that teaches you basic Ruby step-by-step.
@@ -274,6 +334,21 @@ You can find a more comprehensive list here: http://www.reddit.com/r/learnpython
 - Books (paper):
     - [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1933988657) - a comprehensive tutorial.
     - [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104) - a guide on how to write Ruby idiomatically and cleanly. This book assumes that you already know Ruby or some other programming language.
+    
+### Scratch
+
+Scratch is a language wherein you create programs by dragging together and connecting "blocks". Unlike other programming languages, Scratch is very visual, making it a very good first programming language, especially for children and younger teens. 
+
+Because not many people may be familiar with Scratch, this section will contain resources that are helpful both for _learning_ Scratch, and _teaching_ Scratch.
+
+- Online courses: 
+    - edX's [Programming in Scratch](https://www.edx.org/course/programming-scratch-harveymuddx-cs002x#.VJw5t_-kAA) - for beginners.
+    - edX's [Middle-Years Computer Science](https://www.edx.org/course/middle-years-computer-science-harveymuddx-cs001x#.VJw5rP-kAA) - a course designed to help teachers design an engaging computer science curriculum for middle-schoolers using Scratch.
+- Interactive tutorials:
+- Video tutorials: N/A
+- Exercises:
+- Books and tutorials (online):
+- Books (paper):
 
 ---
 
@@ -290,6 +365,8 @@ Please see our [FAQ](http://www.reddit.com/r/learnprogramming/wiki/faq#wiki_how_
 - [Spreadsheet of Android resources](http://www.reddit.com/r/learnprogramming/comments/1dy9wj/im_a_cpa_who_learned_java_android_and_published/)
 - [List of Android learning resources](http://www.reddit.com/r/learnprogramming/comments/22xlu9/you_want_to_how_to_write_apps_for_android/)
 - [Google Code University](https://developers.google.com/university/) - also contains tutorials on other Google technologies.
+- [Developing Android Apps](https://www.udacity.com/course/ud853) - via Udacity. Assumes prior programming experience.
+- Team Treehouse's [Android course](http://teamtreehouse.com/features/android) - allows a free 14-day trial, but later requires payment.
 - [More free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#android)
 
 #### Mac and iOS
@@ -298,6 +375,8 @@ Please see our [FAQ](http://www.reddit.com/r/learnprogramming/wiki/faq#wiki_how_
 - [List of iOS Video Tutorials](http://www.reddit.com/r/learnprogramming/comments/22zkce/want_to_learn_ios_development_best_video/)
 - Apple's [iOS Developer Library](https://developer.apple.com/library/ios/navigation/)
 - Apple's [Mac Developer Library](https://developer.apple.com/library/mac/navigation/)
+- [Intro to iOS App Development with Swift](https://www.udacity.com/course/ud585) - via Udacity. Assumes prior programming experience.
+- Team Treehouse's [iOS course](http://teamtreehouse.com/features/ios) - allows a free 14-day trial, but later requires payment.
 - [More free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#ios)
 
 #### Windows and Windows phones
@@ -312,8 +391,17 @@ TODO: Expand? Don't want to duplicate too much existing content.
         
 ### Data structures and algorithms
 
+Unless otherwise noted, all of the resources in this category assume prior programming experience.
+
 - Online courses:
-    - Stanford's [Algorithms: Design and Analysis, Part 1](https://www.coursera.org/course/algo) - a free online course via Coursera.
+    - Udacity's [Intro to Algorithms](https://www.udacity.com/course/cs215) - assumes  proficiency in math up to the Algebra 2 level.
+    - Coursera's [Algorithms: Design and Analysis, Part 1](https://www.coursera.org/course/algo) - lectures are archived. Assumes some familarity with proofs.
+    - Open Culture has several good video playlists (mostly on YouTube)
+        - [Algorithm Design and Analysis](https://www.youtube.com/playlist?list=PL6EF0274BD849A7D5) - hosted by UCDavis (University of California, Davis)
+        - [Computer Science 61B (Data structures)](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDXrTvCvDgIkeCWeSIDr4Yh) - hosted by UCBerkeley (University of California, Berkeley).
+        - [CS2: Data Structures and Algorithms](https://www.youtube.com/course?feature=edu&list=ECE621E25B3BF8B9D1&category=University%2FScience) - Hosted by the University of New South Wales
+    - MIT Open Courseware's [Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) and [Design and Analysis of Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012/)
+    - Khan Academy's [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 - Interactive tutorials: N/A
 - Exercises:
     - See our [FAQ](http://www.reddit.com/r/learnprogramming/wiki/faq#wiki_where_can_i_find_practice_exercises_and_project_ideas.3F). All of the general exercises and exercises from programming competitions should be great for practicing.
@@ -358,7 +446,8 @@ TODO: Expand
 
 #### Git
 
-- Online courses: N/A
+- Online courses: 
+    - [How to Use Git and GitHub](https://www.udacity.com/course/ud775) - via Udacity.
 - Interactive tutorials: 
     - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) - a very visual interactive tutorial starting from the absolute basics with a high emphasis on understanding the internals/what each git command really means.
     - [Try Git](https://try.github.io/levels/1/challenges/1) - an interactive tutorial that teaches basic Git.
