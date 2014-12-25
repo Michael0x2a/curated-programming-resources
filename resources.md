@@ -38,10 +38,10 @@ Any contributions are welcome! To suggest a change, either make a pull request o
         - [Windows and Windows Phones](#windows-and-windows-phones)
     - [Data structures and algorithms](#data-structures-and-algorithms)
 - [Tools](#tools)
-    - [Editors and IDEs](#editors-and-ides)
+    - [Text editors and IDEs](#text-editors-and-ides)
         - [Emacs](#emacs)
         - [Vim](#vim)
-    - [Version control]
+    - [Version control](#version-control)
         - [Git](#git)
         - [Mercurial](#mercurial)
 
@@ -311,7 +311,7 @@ Please see our [FAQ](http://www.reddit.com/r/learnprogramming/wiki/faq#wiki_how_
 - Apple's [Mac Developer Library](https://developer.apple.com/library/mac/navigation/)
 - [More free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#ios)
 
-#### Windows and Windows phone:
+#### Windows and Windows phones
     
 - Microsoft's [Developer Guides](http://msdn.microsoft.com/en-us/vstudio/cc136611)
 - Microsoft's [App Hub](http://create.msdn.com/en-US/education/catalog/) - resources for mobile and XNA game development.
