@@ -14,6 +14,36 @@ This page is still a work-in-progress! Some sections may currently be incomplete
 
 Any contributions are welcome! To suggest a change, either make a pull request or submit an issue using the issue tracker to the right.
 
+## Index 
+
+- [General resources](#general-resources)
+    - [Links to other big lists](#links-to-other-big-lists)
+    - [Online courses](#online-courses)
+- [Programming Languages](#programming-languages)
+    - [C](#c)
+    - [C++](#c-1)
+    - [C#](#c-sharp)
+    - [Haskell](#haskell)
+    - [HTML, CSS, and Javascript](#html-css-and-javascript)
+    - [Lisp (Scheme, Common Lisp, Clojure, etc)](#lisp-scheme-common-lisp-clojure-etc)
+    - [Java](#java)
+    - [Perl](#perl)
+    - [Python](#python)
+    - [Ruby](#ruby)
+    - [Other](#other)
+- [Other topics](#other-topics)
+    - [Developing on specific platforms](#developing-on-specific-platforms)
+        - [Android](#android)
+        - [Mac and iOS](#mac-and-ios)
+        - [Windows and Windows Phones](#windows-and-windows-phones)
+    - [Data structures and algorithms](#data-structures-and-algorithms)
+- [Tools](#tools)
+    - [Editors and IDEs](#editors-and-ides)
+        - [Emacs](#emacs)
+        - [Vim](#vim)
+    - [Version control]
+        - [Git](#git)
+        - [Mercurial](#mercurial)
 
 ## General resources
 
@@ -26,7 +56,7 @@ You can also find a meta "list of programming resources" aggregator here: http:/
 
 ### Online courses
 
-This is an increasingly popular way for universities and professionals to help guide the next generation of programmers, and as such, new resources like this are popping up all the time. Feel free to contribute new offerings to this section as they form.
+This is an increasingly popular way for universities and professionals to help guide the next generation of programmers, and as such, new resources like this are popping up all the time.
 
 - [Codecademy](http://www.codecademy.com/) - offers free online courses in several different languages. However, Codecademy does have a tendency to teach only basic syntax, so you may need work through more tutorials after finishing Codecademy.
 - [Coursera](https://www.coursera.org/) - offers free online courses in many different fields from several different well-known universities.
@@ -37,8 +67,6 @@ This is an increasingly popular way for universities and professionals to help g
 - [Khan Academy](https://www.khanacademy.org/) - contains a wide variety of courses in addition to computer science.
 - [Stanford Engineering Everywhere](http://see.stanford.edu/see/courses.aspx) - static course materials taught at Stanford.
 
-Redditors have also been known to teach courses on a variety of topics, including programming, at /r/universityofreddit. Check out [the computer science section](http://ureddit.com/category/23442/computer-science).  Just like with anything on reddit, since anyone can contribute, these courses may vary in quality from professor to "professor".
-
 The following websites also contain a wide variety of tutorials for many different topics, but frequently require payment.
 
 - [Team Treehouse](http://teamtreehouse.com/) - focuses on web and iOS development.
@@ -48,9 +76,6 @@ The following websites also contain a wide variety of tutorials for many differe
 ## Programming Languages
 
 ### C
-
-Unfortunately, there are very few good online resources for beginners on C, free or otherwise. You may be able to find a course on any of the above interactive online courses that happens to teach C, but you're typically better off finding a book.
-
 
 - Online courses: N/A
 - Interactive tutorials:
@@ -68,10 +93,6 @@ Unfortunately, there are very few good online resources for beginners on C, free
 
 ### C++
 
-Similarly to C, there are very few good online resources for beginners on C++. 
-
-Note: while C++ is technically a superset of C and while most C code is also valid C++ code, the differences in how you write idiomatic C and C++ code are so different that they're practically different programming languages. Do not assume that just because you know C you can proficiently programming in C++, and vice-versa.
-
 - Online courses:
     - [Google's C++ Class](https://developers.google.com/edu/c++/) - via Google for Education.
     - [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) - via MIT OpenCourseware
@@ -88,10 +109,6 @@ Note: while C++ is technically a superset of C and while most C code is also val
    - [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) - a well-maintained list of recommended books and resources on StackOverflow.
    
 ### C-Sharp
-
-C# is a language made by Microsoft, and is often described as being very similar to Java.
-
-Despite its name, C# has very little to do with C and C++. See our [FAQ](http://www.reddit.com/r/learnprogramming/wiki/faq#wiki_what_is_the_difference_between_c.2C_c.2B.2B.2C_objective-c.2C_and_c.23.3F) for more info.
 
 - Online courses: N/A
 - Interactive tutorials: N/A
@@ -126,12 +143,6 @@ Despite its name, C# has very little to do with C and C++. See our [FAQ](http://
 - Books (paper): N/A
     
 ### HTML, CSS, and JavaScript
-
-HTML, CSS, and Javascript are the core three languages that you need to know in order to make websites. HTML is used to dictate the _structure_ and _content_ of your website. CSS is used to make your HTML look nice, adding _style_ and _layout_. Javascript is used to add _interactivity_ to your website.
-
-It's important to note that HTML and CSS are both not considered programming languages and so will feel very different from Javascript. Nevertheless, all three are still very useful to know.
-
-The recommending learning order is HTML, followed shortly after by CSS, then Javascript once you've learned HTML+CSS.
     
 - Online courses:
     - [Codecademy](http://www.codecademy.com/) has several courses related to web development.
@@ -159,8 +170,6 @@ The recommending learning order is HTML, followed shortly after by CSS, then Jav
     
 ### Lisp (Scheme, Common Lisp, Clojure, etc)
 
-Todo: add introduction here.
-
 - Online courses: N/A
 - Interactive tutorials:
     - [Try Clojure](http://www.tryclj.com/) - an interactive tutorial for Clojure.
@@ -185,8 +194,6 @@ Todo: add introduction here.
     - [Land of Lisp](http://www.amazon.com/Land-Lisp-Learn-Program-Game/dp/1593272812) - a book that teaches Lisp via making games. For beginners.
 
 ### Java
-
-Brief commentary here.
 
 - Online courses:
     - [Udacity's Intro to Java Programming](https://www.udacity.com/course/cs046) course - the instructor videos and exercises are free; one-on-one tutoring and code reviews require payment.
@@ -285,29 +292,32 @@ TODO: Expand
 
 TODO: Come up with other topics to add?
 
-### Developing on specific platforms (Android, Mac + iOS, Windows + Windows Phone)
+### Developing on specific platforms
 
 Please see our [FAQ](http://www.reddit.com/r/learnprogramming/wiki/faq#wiki_how_do_i_get_starting_making_mobile_apps.2Fandroid_apps.2Fios_apps.2Fwindows_phone_apps.3F) for more information.
 
-You can also find additional tutorials and information here:
+#### Android
 
-- Android:
-    - [Spreadsheet of Android resources](http://www.reddit.com/r/learnprogramming/comments/1dy9wj/im_a_cpa_who_learned_java_android_and_published/)
-    - [List of Android learning resources](http://www.reddit.com/r/learnprogramming/comments/22xlu9/you_want_to_how_to_write_apps_for_android/)
-    - [Google Code University](https://developers.google.com/university/) - also contains tutorials on other Google technologies.
-    - [More free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#android)
-- Macs and iOS:
-    - [List of iOS learning resources](http://www.reddit.com/r/learnprogramming/comments/22w8sk/you_want_to_know_where_to_start_for_writing_apps/)
-    - [List of iOS Video Tutorials](http://www.reddit.com/r/learnprogramming/comments/22zkce/want_to_learn_ios_development_best_video/)
-    - Apple's [iOS Developer Library](https://developer.apple.com/library/ios/navigation/)
-    - Apple's [Mac Developer Library](https://developer.apple.com/library/mac/navigation/)
-    - [More free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#ios)
-- Windows and Windows phone:
-    - Microsoft's [Developer Guides](http://msdn.microsoft.com/en-us/vstudio/cc136611)
-    - Microsoft's [App Hub](http://create.msdn.com/en-US/education/catalog/) - resources for mobile and XNA game development.
-    - More free books:
-        - [.NET](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#net-framework)
-        - [Windows 8 and Windows Phone](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#windows-8)
+- [Spreadsheet of Android resources](http://www.reddit.com/r/learnprogramming/comments/1dy9wj/im_a_cpa_who_learned_java_android_and_published/)
+- [List of Android learning resources](http://www.reddit.com/r/learnprogramming/comments/22xlu9/you_want_to_how_to_write_apps_for_android/)
+- [Google Code University](https://developers.google.com/university/) - also contains tutorials on other Google technologies.
+- [More free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#android)
+
+#### Mac and iOS
+
+- [List of iOS learning resources](http://www.reddit.com/r/learnprogramming/comments/22w8sk/you_want_to_know_where_to_start_for_writing_apps/)
+- [List of iOS Video Tutorials](http://www.reddit.com/r/learnprogramming/comments/22zkce/want_to_learn_ios_development_best_video/)
+- Apple's [iOS Developer Library](https://developer.apple.com/library/ios/navigation/)
+- Apple's [Mac Developer Library](https://developer.apple.com/library/mac/navigation/)
+- [More free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#ios)
+
+#### Windows and Windows phone:
+    
+- Microsoft's [Developer Guides](http://msdn.microsoft.com/en-us/vstudio/cc136611)
+- Microsoft's [App Hub](http://create.msdn.com/en-US/education/catalog/) - resources for mobile and XNA game development.
+- More free books:
+    - [.NET](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#net-framework)
+    - [Windows 8 and Windows Phone](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#windows-8)
 
 TODO: Expand? Don't want to duplicate content from existing subreddits.
         
@@ -330,11 +340,13 @@ TODO: Expand? Don't want to duplicate content from existing subreddits.
 
 ---
 
-## Editors and IDEs
+## Tools
 
 TODO: Expand
 
-### Emacs
+### Text editors and IDEs
+
+#### Emacs
 
 - Online courses:
 - Interactive tutorials: N/A
@@ -343,7 +355,7 @@ TODO: Expand
 - Books and tutorials (online):
 - Books (paper):
 
-### Vim
+#### Vim
 
 - Online courses:
 - Interactive tutorials: N/A
@@ -353,15 +365,9 @@ TODO: Expand
     - [Open Vim](http://www.openvim.com/tutorial.html)
 - Books (paper):
 
----
-    
-## Version control
+### Version control
 
-For more information on what version control is, and whether or not you should be using it, please consult our [FAQ](http://www.reddit.com/r/learnprogramming/wiki/faq#wiki_what_is_source.2Fversion.2Frevision_control.3F_should_i_be_using_it.3F).
-
-You can find information on installing and setting up different version control systems on our [tools](http://www.reddit.com/r/learnprogramming/wiki/tools) page.
-
-### Git
+#### Git
 
 - Online courses: N/A
 - Interactive tutorials: 
@@ -376,7 +382,7 @@ You can find information on installing and setting up different version control 
     - [More free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#git)
 - Books (paper): N/A
     
-### Mercurial
+#### Mercurial
 
 - Online courses: N/A
 - Interactive tutorials: N/A
