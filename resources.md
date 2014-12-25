@@ -2,8 +2,6 @@
 
 This page is meant to start as a **curated** list of resources for getting started in various programming languages and technologies. It doesn't try and list every single resource available, and instead links resources that are guaranteed to be high-quality.
 
-Before you get started, make sure to read the sections in our FAQ on [how to get started](http://www.reddit.com/r/learnprogramming/wiki/faq#wiki_how_do_i_get_started_with_programming.3F) with programming, and on [which programming language](http://www.reddit.com/r/learnprogramming/wiki/faq#wiki_which_programming_language_should_i_start_with.3F) to start with.
-
 If you're not sure where to start and which language to learn, some good beginner languages are:
 
 - Python (general-purpose)
