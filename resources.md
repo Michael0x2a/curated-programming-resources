@@ -14,7 +14,7 @@ If you're not sure where to start and which language to learn, some good beginne
 
 This page is still a work-in-progress! Some sections may currently be incomplete, and some links may not yet be fully vetted. 
 
-Any contributions are welcome! To suggest a change, either make a pull request or submit an issue using the issue tracker to the right.
+Any contributions are welcome! To suggest a change, either make a pull request, submit an issue using the issue tracker to the right, or leave a comment on [reddit](http://www.reddit.com/r/learnprogramming/comments/2qc6za/collection_of_programming_resources_and_books/).
 
 ## Table of contents 
 
