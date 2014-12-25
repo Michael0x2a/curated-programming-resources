@@ -1,3 +1,5 @@
+# Curated Programming Resources
+
 ## Introduction
 
 This page is meant to start as a **curated** list of resources for getting started in various programming languages and technologies. It doesn't try and list every single resource available, and instead links resources that are guaranteed to be high-quality.
