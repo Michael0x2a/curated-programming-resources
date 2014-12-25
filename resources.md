@@ -32,7 +32,6 @@ Any contributions are welcome! To suggest a change, either make a pull request o
     - [Perl](#perl)
     - [Python](#python)
     - [Ruby](#ruby)
-    - [Other](#other)
 - [Other topics](#other-topics)
     - [Developing on specific platforms](#developing-on-specific-platforms)
         - [Android](#android)
@@ -276,18 +275,6 @@ You can find a more comprehensive list here: http://www.reddit.com/r/learnpython
     - [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1933988657) - a comprehensive tutorial.
     - [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104) - a guide on how to write Ruby idiomatically and cleanly. This book assumes that you already know Ruby or some other programming language.
 
-
-### Other
-
-- [Try F#](http://www.tryfsharp.org/Learn)
-- [Try APL](http://tryapl.org/)
-- [Go](http://golang.org/)
-- [MongoDB](http://mongly.openmymind.net/tutorial/index)
-- [SQLzoo](http://sqlzoo.net/)
-- [Try OCaml](http://try.ocamlpro.com/)
-
-TODO: Expand
-
 ---
 
 ## Other topics
@@ -321,7 +308,7 @@ Please see our [FAQ](http://www.reddit.com/r/learnprogramming/wiki/faq#wiki_how_
     - [.NET](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#net-framework)
     - [Windows 8 and Windows Phone](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#windows-8)
 
-TODO: Expand? Don't want to duplicate content from existing subreddits.
+TODO: Expand? Don't want to duplicate too much existing content.
         
 ### Data structures and algorithms
 
@@ -378,7 +365,6 @@ TODO: Expand
 - Exercises: N/A
 - Video tutorials: N/A
 - Books and tutorials (online):
-    - [Git 101](http://cgordini.blogspot.com/2013/05/git-101.html) - an introduction to Git written by a redditor.
     - [Learn Version Control with Git](http://www.git-tower.com/learn/ebook/command-line/introduction) - an introduction to Git for the absolute beginner (via git-tower).
     - Git has an [official reference and book](http://git-scm.com/documentation)
     - [More free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#git)
