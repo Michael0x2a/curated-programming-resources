@@ -152,7 +152,8 @@ Note: Similar to C, C++ can be a finicky and difficult-to-teach language. Althou
 
 - Online courses:
     - MIT Open Courseware has a few:
-        - [Introduction to C++][cpp-mit-intro] - for beginners, is fast-paced.
+        - [Introduction to C++][cpp-mit-intro]  
+          For beginners, is fast-paced.
         - [Introduction to C Memory Management and C++ Object-Oriented Programming][cpp-mit-intro-2]  
           Geared towards people with prior experience in a programming language that is not C or C++.
         - [Effective Programming in C and C++][cpp-mit-effective]
@@ -161,7 +162,7 @@ Note: Similar to C, C++ can be a finicky and difficult-to-teach language. Althou
         - [Programming Methodology][cpp-stan-methodology]
         - [Programming Abstractions][cpp-stan-abstractions]
         - [Programming Paradigms][cpp-stan-paradigms]
-    - Coursera's [C++ for C Programmers][cpp-coursera-c-for-cpp] 
+    - Coursera's [C++ for C Programmers][cpp-coursera-c-for-cpp]  
       May also be helpful for programmers with prior experience in another language besides C or C++.
 - Interactive tutorials:
     - [C++ Interactive Exercises][cpp-interactive]  
@@ -183,7 +184,7 @@ Note: Similar to C, C++ can be a finicky and difficult-to-teach language. Althou
   [cpp-google-class]: https://developers.google.com/edu/c++/
   [cpp-coursera-c-for-cpp]: https://www.coursera.org/course/cplusplus4c
   [cpp-mit-intro]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/
-  [cpp-mit-intro-2]: (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/
+  [cpp-mit-intro-2]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/
   [cpp-mit-effective]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/
   [cpp-stan-methodology]: http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111
   [cpp-stan-abstractions]: http://see.stanford.edu/see/courseinfo.aspx?coll=11f4f422-5670-4b4c-889c-008262e09e4e
