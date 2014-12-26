@@ -110,6 +110,7 @@ The following websites also contain a wide variety of tutorials for many differe
 
 In general, edX, OpenCulture, MIT OpenCourseware, and Stanford Engineering Everywhere tend to contain more rigorous, thorough, and demanding courses, whereas Codecademy and Khan Academy tend to focus on giving a more gentle introduction to programming. Coursera and Udacity tend to vary between these two extremes.
 
+
 ## Programming Languages
 
 ### C
@@ -118,20 +119,29 @@ Note: C can be a finicky and difficult-to-teach language. Although the online co
 
 - Online courses:
     - MIT Open Courseware has a few:
-        - [Practical Programming in C][c-mit-practical] - for beginners.
-        - [Introduction to C Memory Management and C++ Object-Oriented Programming][c-mit-intro] - geared towards people with prior experience in a programming language that is not C or C++.
-        - [Effective Programming in C and C++][c-mit-effective] - similar to the above.
+        - [Practical Programming in C][c-mit-practical]  
+          For beginners. 
+        - [Introduction to C Memory Management and C++ Object-Oriented Programming][c-mit-intro]  
+          Geared towards people with prior experience in a programming language that is not C or C++.
+        - [Effective Programming in C and C++][c-mit-effective]  
+          Similar to the above.
 - Video tutorials: N/A
 - Interactive tutorials:
-    - [Learn-C][c-learn-c] - an interactive online guide that teaches you basic C step-by-step.
+    - [Learn-C][c-learn-c]  
+      An interactive online guide that teaches you basic C step-by-step.
 - Books and tutorials (online):
-   -  [Learn C The Hard Way][c-lcthw] - part of the "Learn X the Hard Way" series. Assumes you have prior programming experience. Currently incomplete, in progress. 
-   -  [C Programming][c-c-programming] - via wikibooks. 
-   -  [Build Your Own Lisp](http://www.buildyourownlisp.com/) - walks you through how to write a Lisp interpreter in C, teaching both languages simultaneously.
+   -  [Learn C The Hard Way][c-lcthw]  
+      Part of the "Learn X the Hard Way" series. Assumes you have prior programming experience. Currently incomplete, in progress. 
+   -  [C Programming][c-c-programming]  
+      One of Wikibooks' featured books. Tends to focus on teaching mainly syntax. A good starting point and reference.
+   -  [Build Your Own Lisp][c-lisp]  
+      Walks you through how to write a Lisp interpreter in C, teaching both languages simultaneously.
     - [More free books][c-more]
 - Books (paper):
-    - [The C Programming Language][c-c-lang] - the definitive guide to C. Also known as K&R, after the authors. 
-    - [The Definitive C Book Guide and List][c-so-definitive] - a very well-maintained list of recommended books and resources on StackOverflow. Every book listed on this page is highly-recommended.
+    - [The C Programming Language][c-c-lang]  
+      The definitive guide to C. Also known as K&R, after the authors. 
+    - [The Definitive C Book Guide and List][c-so-definitive]  
+      A very well-maintained list of recommended books and resources on StackOverflow. Every book listed on this page is highly-recommended.
 - Exercises: N/A
 
   [c-mit-practical]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/
@@ -140,6 +150,7 @@ Note: C can be a finicky and difficult-to-teach language. Although the online co
   
   [c-learn-c]: http://learn-c.org
   [c-lcthw]: http://c.learncodethehardway.org/book/
+  [c-lisp]: http://www.buildyourownlisp.com/
   [c-c-programming]: http://en.wikibooks.org/wiki/C_Programming
   [c-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c
   
@@ -201,41 +212,96 @@ Note: Similar to C, C++ can be a finicky and difficult-to-teach language. Althou
    
 ### C-Sharp
 
-- Online courses: N/A
+- Online courses:
+    - Microsoft Virtual Academy has a few free courses: 
+      - [C# Fundamentals for Absolute Beginners][csharp-fundamentals]  
+        A series of videos produced by Microsoft on learning C#. For beginners.
+      - [Programming in C# Jump Start][csharp-jump-start]  
+        Another series of videos produced by Microsoft. Assumes some prior knowledge of C#.
 - Interactive tutorials: N/A
-- Exercises: N/A
 - Video tutorials: N/A
 - Books and tutorials (online):
-    - [C# Programming](http://en.wikibooks.org/wiki/C_Sharp_Programming) - via wikibooks.
-    - [The C# Yellow Book](http://www.csharpcourse.com/) - the introductory text used by the University of Hull.
-    - [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials) - an introductory text on C#. Also includes information on Windows Forms, Visual Studios, and making GUIs.
-    - [Visual C# resources](http://msdn.microsoft.com/en-us/vstudio/hh341490) - Microsoft's official series of tutorials and guides on C# and .NET.
-    - [More free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-sharp)
+    - [C# Programming][csharp-programming]  
+      One of Wikibook's featured books. For beginners. Tends to focus on syntax, and would also make a good reference.
+    - [The C# Yellow Book][csharp-yellow]  
+      The introductory text used by the University of Hull.
+    - [C# Essentials][csharp-essential]  
+      An introductory text on C#. Also includes information on Windows Forms, Visual Studios, and making GUIs.
+    - [Visual C# resources][csharp-visual]  
+      Microsoft's official series of tutorials and guides on C# and .NET.
+    - [More free books][csharp-more]
 - Books (paper):
-    - [Sam's Teach Yourself C# 5.0 in 24 Hours](http://www.amazon.com/Sams-Teach-Yourself-5-0-Hours/dp/0672336847) by Scott Dorman - a good introduction for beginners.
-    - [Essential C# 5.0](http://www.amazon.com/Essential-Edition-Microsoft-Windows-Development/dp/0321877586) - very comprehensive, and intended more for intermediate programmers/programmings coming from another language.
-    - [C# in Depth, 3rd Edition](www.amazon.com/gp/product/161729134X) - also very comprehensive, and covers how to write idiomatic and clean C# code. Assumes the reader already knows some C#.
-    - [Effective C#](http://www.amazon.com/Effective-Specific-Ways-Improve-Your/dp/0321245660) and [More Effective C#](http://www.amazon.com/More-Effective-Specific-Ways-Improve/dp/0321485890) - tips and tricks to improve your C# code.
+    - [Sam's Teach Yourself C# 5.0 in 24 Hours]() by Scott Dorman  
+      A good introduction for beginners.
+    - [Essential C# 5.0][csharp-essential-book]  
+      Very comprehensive, and intended more for intermediate programmers/programmings coming from another language.
+    - [C# in Depth, 3rd Edition][csharp-in-depth]  
+      Also very comprehensive, and covers how to write idiomatic and clean C# code. Assumes the reader already knows some C#.
+    - [Effective C#][csharp-effective] and [More Effective C#][csharp-more-effective]  
+      A collection of tips and tricks to improve your C# code. Not for beginners.
+- Exercises: N/A
+
+  [csharp-fundamentals]: http://channel9.msdn.com/Series/C-Fundamentals-for-Absolute-Beginners
+  [csharp-jump-start]: http://www.microsoftvirtualacademy.com/training-courses/developer-training-with-programming-in-c
+  
+  [csharp-programming]: http://en.wikibooks.org/wiki/C_Sharp_Programming
+  [csharp-yellow]: http://www.csharpcourse.com/
+  [csharp-essentials]: http://www.techotopia.com/index.php/C_Sharp_Essentials
+  [csharp-visual]: http://msdn.microsoft.com/en-us/vstudio/hh341490
+  [csharp-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-sharp
+  
+  [csharp-sam]: http://www.amazon.com/Sams-Teach-Yourself-5-0-Hours/dp/0672336847
+  [csharp-essential-book]: http://www.amazon.com/Essential-Edition-Microsoft-Windows-Development/dp/0321877586
+  [csharp-in-depth]: www.amazon.com/gp/product/161729134X
+  [csharp-effective]: http://www.amazon.com/Effective-Specific-Ways-Improve-Your/dp/0321245660
+  [csharp-more-effective]: http://www.amazon.com/More-Effective-Specific-Ways-Improve/dp/0321485890
 
 ### Haskell
 
 - Online courses:
-    - edX's [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x#.VJw54f-kAA) - assumes familiarity with a non-functional programming language (Java, Python, C#, C++, etc).
+    - edX's [Introduction to Functional Programming][haskell-intro-func]  
+      Assumes familiarity with a non-functional programming language (Java, Python, C#, C++, etc).
 - Interactive tutorials:
-    - [Try Haskell](http://tryhaskell.org/) - an interactive guide that teaches basic Haskell.
-- Exercises:
-    - [H-99](haskell.org/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems) - a collection of 99 problems designed to increase your proficiency in Haskell.
+    - [Try Haskell][haskell-try]  
+      An interactive guide that teaches basic Haskell.
 - Video tutorials: N/A
 - Books and tutorials (online):
-    - [Getting started with Haskell](http://stackoverflow.com/a/1016986/646543) - a comprehensive meta-guide that suggests the recommended order for following Haskell tutorials from beginning to advanced.
-    - [Learn You a Haskell for Great Good](http://learnyouahaskell.com/) - a beginner's introduction to Haskell.
-    - [Haskell](http://en.wikibooks.org/wiki/Haskell) - via Wikibooks. Covers basic to advanced Haskell. Very comprehensive.
-    - [Real World Haskell](http://book.realworldhaskell.org/) - covers how to use Haskell for practical applications. 
-    - [More free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#haskell)
+    - [Getting started with Haskell][haskell-getting-started]  
+      A comprehensive meta-guide that suggests the recommended order for following Haskell tutorials from beginning to advanced.
+    - [Learn You a Haskell for Great Good][haskell-great-good]  
+      A beginner's introduction to Haskell. Tends to focus on syntax.
+    - [Haskell][haskell-wikibooks]  
+      One of Wikibook's featured books. Covers basic to advanced Haskell. Very comprehensive.
+    - [Real World Haskell][haskell-real-world]:  
+      Covers how to use Haskell for practical applications. This is a good second book to read, after completing one of the above tutorials. 
+    - [More free books][haskell-more]
 - Books (paper): N/A
+- Exercises:
+    - [H-99][haskell-99]  
+      A collection of 99 problems designed to increase your proficiency in Haskell.
+   
+  [haskell-intro-func]: https://www.edx.org/course/introduction-functional-programming-delftx-fp101x#.VJw54f-kAA
+  
+  [haskell-try]: http://tryhaskell.org/
+  
+  [haskell-getting-started]: http://stackoverflow.com/a/1016986/646543
+  [haskell-great-good]: http://learnyouahaskell.com/
+  [haskell-wikibooks]: http://en.wikibooks.org/wiki/Haskell
+  [haskell-real-world]: http://book.realworldhaskell.org/
+  [haskell-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#haskell
+  
+  [haskell-H-99]: http://haskell.org/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems
     
 ### HTML, CSS, and JavaScript
-    
+
+Note: HTML, CSS, and JavaScript are the three core technologies that runs on every web browser and makes up every webpage.
+
+HTML is a language used to describe the _structure_ and _content_ of a webpage. CSS is used to describe the _style_ and _appearance_. JavaScript is used to add _behavior_ and _interactivity_.
+
+The recommended learning order is typically to start with HTML and CSS, then move on to learning JavaScript once you feel you've acquired a basic understanding of the previous two.
+
+Also note that HTML and CSS are examples of "markup languages", not "programming languages" and so will feel fairly different from JavaScript. If your goal is to learn just programming, you might want to jump straight ahead to JavaScript (or pick a different programming language!). However, since the main way to actually use JavaScript is through the web browser, you _do_ need to learn HTML and CSS at one point or another.
+
 - Online courses:
     - Codecademy has several courses related to web development.
         - [Make a website](http://www.codecademy.com/skills/make-a-website)
@@ -370,8 +436,8 @@ Note: while PHP can be very convenient, quick, and easy to use, it's also a lang
     - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/) - part of the "Learn X the Hard Way" series. Despite its name, this is one of the easiest introductions to Python available.
     - The official Python tutorial (for [Python 2](https://docs.python.org/2/tutorial/) and [Python 3](https://docs.python.org/3/tutorial/). Moves a little quickly, but is very comprehensive and thorough. 
     - [Dive into Python 3](http://www.diveintopython3.net/) - an accelerated introduction to Python. Warning: do NOT use "Dive into Python 2". It's very outdated.
-    - [Invent with Python](http://inventwithpython.com/) - teaches programming through the creation of computer games with Python and Pygame. The author is also a redditor: /u/AlSweigart
-    - [Program Arcade Games With Python And Pygame](http://ProgramArcadeGames.com) by /u/professorcraven
+    - [Invent with Python](http://inventwithpython.com/) - teaches programming through the creation of computer games with Python and Pygame.
+    - [Program Arcade Games With Python And Pygame](http://ProgramArcadeGames.com) - a fantastic and thorough introduction to Python via making games.
     - [pycrumbs](http://resrc.io/list/4/pycrumbs/) - a huge list of many useful articles, tutorials, and snippits on Python.
     - [More free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python)
 - Books (paper):
