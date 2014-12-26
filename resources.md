@@ -1,30 +1,12 @@
 # Curated Programming Resources
 
-## Introduction
-
-This page is meant to start as a **curated** list of resources for getting started in various programming languages and technologies. It doesn't try and list every single resource available, and instead links to resources that are guaranteed to be high-quality.
-
-If you're not sure where to start and which language to learn, some good beginner languages are:
-
-- [Python](#python) (general-purpose; scientific and mathematical computing)
-- [Java](#java) (general-purpose; Android development)
-- [HTML/CSS/JavaScript](#html-css-and-javascript) (websites and webapps)
-- [Scratch](#scratch) (for younger children)
-
-Python and Java are both languages that are [commonly used to teach programming](http://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-us-universities/fulltext) to beginners in schools and universities, and so will have a wide variety of resources available to help you learn. They're also both widely used in the industry and so are useful languages to have in your toolbelt.
-
-Web development has been very popular lately, so there are many resources for learning HTML, CSS, and JavaScript, also making it suitable for learning. It also requires little to no installation and configuration on your computer. All you need is a text editor to write code -- the code will run on your web browser.
-
-Scratch is a little different from other languages. It was designed from the ground up to be easy to use and learn -- instead of typing text, you drag and connect together "blocks" to form programs, making it a very visual language. As a result, Scratch is a good language especially for younger children (elementary schoolers, middle schoolers) or for people who dislike typing.
-
-### Warning 
-
-This page is still a work-in-progress! Some sections may currently be incomplete, and some links may not yet be fully vetted. 
-
-Any contributions are welcome! To suggest a change, either make a pull request, submit an issue using the issue tracker to the right, or leave a comment on [reddit](http://www.reddit.com/r/learnprogramming/comments/2qc6za/collection_of_programming_resources_and_books/).
-
 ## Table of contents 
 
+- [Introduction](#introduction)
+    - [Motivation and Goals](#motivation-and-goals)
+    - [Where do I start?](#where-do-i-start)
+    - [How this page is organized](#how-this-page-is-organized)
+    - [Warning](#warning)
 - [General resources](#general-resources)
     - [Links to other big lists](#links-to-other-big-lists)
     - [Online courses](#online-courses)
@@ -55,6 +37,49 @@ Any contributions are welcome! To suggest a change, either make a pull request, 
         - [Git](#git)
         - [Mercurial](#mercurial)
 
+## Introduction
+
+### Motivation and goals
+
+Currently, we're living in a sort of "programming renaissance". Programming and computer science is become more popular then ever -- major initiatives like the [Hour of Code](http://hourofcode.com/us) is popularizing learning programming across the world, and the number of people interested in majoring in computer science is [growing](http://www.princeton.edu/engineering/news/archive/index.xml?id=10983) [exponentially](http://www.geekwire.com/2014/uw-computer-science-majors/). 
+
+As a consequence, there is an increasingly huge number of resources and tutorials being produced for beginners who want to learn to code, ranging from books to online tutorials to interactive websites to massive open online courses (MOOCS) like Codecademy and Coursera.
+
+While this is great, it can also be overwhelming for beginners -- there are almost too _many_ resources available, and it's difficult to figure out where to start. 
+
+This page is meant to help solve that problem -- to present a **curated** list of resources for people who are either new to programming, new to a particular topic, or want to advance their skills past the beginner stage. This page doesn't try and list every single resource available, but instead links to resources that are guaranteed to be high-quality.
+
+### Where do I start?
+
+If you know what you want to learn about, great! Jump to that section, start browsing the links, and find something which works for you. 
+
+If you're not sure where to start and which language to learn, some good beginner languages are:
+
+- [Python](#python) (general-purpose; scientific and mathematical computing)
+- [Java](#java) (general-purpose; Android development)
+- [HTML/CSS/JavaScript](#html-css-and-javascript) (websites and webapps)
+- [Scratch](#scratch) (for younger children)
+
+Python and Java are both languages that are [commonly used to teach programming](http://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-us-universities/fulltext) to beginners in schools and universities, and so will have a wide variety of resources available to help you learn. They're also both widely used in the industry and so are useful languages to have in your toolbelt.
+
+Web development has been very popular lately, so there are many resources for learning HTML, CSS, and JavaScript, also making it suitable for learning. It also requires little to no installation and configuration on your computer. All you need is a text editor to write code -- the code will run on your web browser.
+
+Scratch is a little different from other languages. It was designed from the ground up to be easy to use and learn -- instead of typing text, you drag and connect together "blocks" to form programs, making it a very visual language. As a result, Scratch is a good language especially for younger children (elementary schoolers, middle schoolers) or for people who dislike typing.
+
+### How this page is organized
+
+This page is subdivded into three parts -- first, a "General resources" section that links to sites that tend to deliver high-quality content about a variety of topics, and a "Specific resources" section that provides resources on specific programming languages or topics. 
+
+In general, most resources available will fall between two categories -- online courses, and books + tutorials. Online courses tend to teach using video lectures, try and be more interactive, and try and emulate the structure of a course similar to ones you might take in college. In contrast, books and tutorials teach via written text and allow you to set your own pace.
+
+Whether you prefer learning by watching a video or reading text is really a matter of personal preference. _I_ personally prefer reading, but your learning style might be completely different. You may need to explore and browse several different resources before you discover how you best learn.
+
+### Warning 
+
+This page is still a work-in-progress! Some sections may currently be incomplete, and some links may not yet be fully vetted. 
+
+Any contributions are welcome! To suggest a change, either make a pull request or submit an issue using the issue tracker to the right.
+
 ## General resources
 
 ### Links to other big lists
@@ -66,7 +91,7 @@ You can also find a meta "list of programming resources" aggregator here: http:/
 
 ### Online courses
 
-This is an increasingly popular way for universities and professionals to help guide the next generation of programmers, and as such, new resources like this are popping up all the time.
+Online courses are an increasingly popular way for universities and professionals to teach programming and computer science in a structured format. As a result, new online courses will pop up all the time, so it's worth checking these resources periodically to see what's new.
 
 - [Codecademy](http://www.codecademy.com/) - offers free online courses in several different languages. However, Codecademy does have a tendency to teach only basic syntax, so you may need work through more tutorials after finishing Codecademy. Focuses mainly on web development, Ruby, and Python.
 - [Coursera](https://www.coursera.org/) - offers free online courses in many different fields from several different well-known universities. New courses are added every quarter, and content from old courses is typically archived. Because many courses appear to be new/may be a one-time thing, this page will not link to courses on Coursera unless it appears to be stable.
@@ -472,6 +497,3 @@ TODO: Expand
 - Books (paper): N/A
     
 TODO: Expand, add info on Subversion
-    
-    
-    
