@@ -114,48 +114,89 @@ In general, edX, OpenCulture, MIT OpenCourseware, and Stanford Engineering Every
 
 ### C
 
+Note: C can be a finicky and difficult-to-teach language. Although the online courses and books are a good starting point and can take you a long way, the general consensus is that the best way to learn is through reading an actual book.
+
 - Online courses:
     - MIT Open Courseware has a few:
-        - [Practical Programming in C](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/) - for beginners.
-        - [Introduction to C Memory Management and C++ Object-Oriented Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/) - geared towards people with prior experience in a programming language that is not C or C++.
-        - [Effective Programming in C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/) - similar to the above.
-- Interactive tutorials:
-    - [Learn-C](http://learn-c.org) - an interactive online guide that teaches you basic C step-by-step.
-- Exercises: N/A
+        - [Practical Programming in C][c-mit-practical] - for beginners.
+        - [Introduction to C Memory Management and C++ Object-Oriented Programming][c-mit-intro] - geared towards people with prior experience in a programming language that is not C or C++.
+        - [Effective Programming in C and C++][c-mit-effective] - similar to the above.
 - Video tutorials: N/A
+- Interactive tutorials:
+    - [Learn-C][c-learn-c] - an interactive online guide that teaches you basic C step-by-step.
 - Books and tutorials (online):
-   - [Learn C The Hard Way](http://c.learncodethehardway.org/book/) - part of the "Learn X the Hard Way" series. Assumes you have prior programming experience. Currently incomplete, in progress. 
-   - [Build Your Own Lisp](http://www.buildyourownlisp.com/) - walks you through how to write a Lisp interpreter in C, teaching both languages simultaneously.
-   - [C Programming](http://en.wikibooks.org/wiki/C_Programming) - via wikibooks. 
-    - [More free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c) 
+   -  [Learn C The Hard Way][c-lcthw] - part of the "Learn X the Hard Way" series. Assumes you have prior programming experience. Currently incomplete, in progress. 
+   -  [C Programming][c-c-programming] - via wikibooks. 
+   -  [Build Your Own Lisp](http://www.buildyourownlisp.com/) - walks you through how to write a Lisp interpreter in C, teaching both languages simultaneously.
+    - [More free books][c-more]
 - Books (paper):
-    - [The C Programming Language](http://www.amazon.com/C-Programming-Language-2nd-Edition/dp/0131103628/) - the definitive guide to C. Also known as K&R, after the authors. 
-    - [The Definitive C Book Guide and List](http://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list) - a well-maintained list of recommended books and resources on StackOverflow.
+    - [The C Programming Language][c-c-lang] - the definitive guide to C. Also known as K&R, after the authors. 
+    - [The Definitive C Book Guide and List][c-so-definitive] - a very well-maintained list of recommended books and resources on StackOverflow. Every book listed on this page is highly-recommended.
+- Exercises: N/A
+
+  [c-mit-practical]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/
+  [c-mit-intro]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/
+  [c-mit-effective]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/
+  
+  [c-learn-c]: http://learn-c.org
+  [c-lcthw]: http://c.learncodethehardway.org/book/
+  [c-c-programming]: http://en.wikibooks.org/wiki/C_Programming
+  [c-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c
+  
+  [c-c-lang]: http://www.amazon.com/C-Programming-Language-2nd-Edition/dp/0131103628/
+  [c-so-definitive]: http://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
 
 ### C++
 
+Note: Similar to C, C++ can be a finicky and difficult-to-teach language. Although the online courses and books are a good starting point and can take you a long way, the general consensus is that the best way to learn is through reading an actual book.
+
 - Online courses:
-    - [Google's C++ Class](https://developers.google.com/edu/c++/) - via Google for Education.
-    - [C++ for C Programmers](https://www.coursera.org/course/cplusplus4c) - via Coursera
     - MIT Open Courseware has a few:
-        - [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) - for beginners, is fast-paced.
-        - [Introduction to C Memory Management and C++ Object-Oriented Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/) - geared towards people with prior experience in a programming language that is not C or C++.
-        - [Effective Programming in C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/) - similar to the above.
+        - [Introduction to C++][cpp-mit-intro] - for beginners, is fast-paced.
+        - [Introduction to C Memory Management and C++ Object-Oriented Programming][cpp-mit-intro-2]  
+          Geared towards people with prior experience in a programming language that is not C or C++.
+        - [Effective Programming in C and C++][cpp-mit-effective]
+        Similar to the above.
     - Stanford's 3-part "Introduction to Computer Science" series for beginners. The first course teaches Java, the latter two teaches C and C++.
-        - [Programming Methodology](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
-        - [Programming Abstractions](http://see.stanford.edu/see/courseinfo.aspx?coll=11f4f422-5670-4b4c-889c-008262e09e4e)
-        - [Programming Paradigms](http://see.stanford.edu/see/courseinfo.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee)
+        - [Programming Methodology][cpp-stan-methodology]
+        - [Programming Abstractions][cpp-stan-abstractions]
+        - [Programming Paradigms][cpp-stan-paradigms]
+    - Coursera's [C++ for C Programmers][cpp-coursera-c-for-cpp] 
+      May also be helpful for programmers with prior experience in another language besides C or C++.
 - Interactive tutorials:
-    - [C++ Interactive Exercises](http://nova.umuc.edu/~jarc/sdsd/) - an introduction to basic C++. Is a cross between an interactive tutorial and an online book.
-- Exercises: N/A
+    - [C++ Interactive Exercises][cpp-interactive]  
+      An introduction to basic C++. Is a cross between an interactive tutorial and an online book.
 - Video tutorials: N/A
 - Books and tutorials (online):
-    - [Learncpp.com](http://www.learncpp.com/) - tends to focus more on syntax, and less on programming. Might be useful for beginners, but as a reference, not a tutorial.
-    - [How to Think Like a Computer Scientist](http://greenteapress.com/thinkcpp/index.html) - a good introduction to basic C++.
-    - [Linear C++](https://github.com/jesyspa/linear-cpp) - a tutorial for C++ as a second (or third or ...) language. Written by /u/jesyspa (send him feedback!).
-   - [More free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1) 
+    - [How to Think Like a Computer Scientist][cpp-think-cs]  
+      A good introduction to basic C++.
+    - [Learncpp.com][cpp-learn]  
+      Tends to focus more on syntax, and less on programming. Might be useful for beginners, but as a reference, not a tutorial.
+    - [Linear C++][cpp-linear]  
+      A tutorial on C++ for people with some prior programming experience. Teaches by presenting and explaining a series of programs.
+   - [More free books][cpp-more] 
 - Books (paper):
-   - [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) - a well-maintained list of recommended books and resources on StackOverflow.
+   - [The Definitive C++ Book Guide and List][cpp-so-definitive]  
+     A very well-maintained list of recommended books and resources on StackOverflow. Every book listed on this page is highly-recommended.
+- Exercises: N/A
+
+  [cpp-google-class]: https://developers.google.com/edu/c++/
+  [cpp-coursera-c-for-cpp]: https://www.coursera.org/course/cplusplus4c
+  [cpp-mit-intro]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/
+  [cpp-mit-intro-2]: (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/
+  [cpp-mit-effective]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/
+  [cpp-stan-methodology]: http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111
+  [cpp-stan-abstractions]: http://see.stanford.edu/see/courseinfo.aspx?coll=11f4f422-5670-4b4c-889c-008262e09e4e
+  [cpp-stan-paradigms]: http://see.stanford.edu/see/courseinfo.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee
+  
+  [cpp-interactive]: http://nova.umuc.edu/~jarc/sdsd/
+
+  [cpp-think-cs]: http://greenteapress.com/thinkcpp/index.html
+  [cpp-learn]: http://www.learncpp.com/
+  [cpp-linear]: https://github.com/jesyspa/linear-cpp
+  [cpp-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1
+  
+  [cpp-so-definitive]: http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
    
 ### C-Sharp
 
