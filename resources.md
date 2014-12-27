@@ -6,6 +6,7 @@
     - [Motivation and Goals](#motivation-and-goals)
     - [Where do I start?](#where-do-i-start)
     - [How this page is organized](#how-this-page-is-organized)
+    - [Which resource should I pick?](#which-resource-should-i-pick)
     - [Warning](#warning)
 - [General resources](#general-resources)
     - [Links to other big lists](#links-to-other-big-lists)
@@ -72,7 +73,32 @@ This page is subdivded into three parts -- first, a "General resources" section 
 
 In general, most resources available will fall between two categories -- online courses, and books + tutorials. Online courses tend to teach using video lectures, try and be more interactive, and try and emulate the structure of a course similar to ones you might take in college. In contrast, books and tutorials teach via written text and allow you to set your own pace.
 
+### Which resource should I pick?
+
 Whether you prefer learning by watching a video or reading text is really a matter of personal preference. _I_ personally prefer reading, but your learning style might be completely different. You may need to explore and browse several different resources before you discover how you best learn.
+
+In addition, you'll find that most links, whether they're online courses, tutorials, or books, tend to focus on either one of two things:
+
+1. Some resources focus more on _coding_ and _syntax_ -- the particular details and rules about how a programming language works. 
+2. Other languages will focus on _programming_, _semantics_, or _computer science theory_ -- in other words, how to use a programming language to write something that works.
+
+In general, the second model is ultimately where you want to end up with. Programming is all about taking a problem and breaking it up into small pieces until the pieces are small enough that you can write instructions telling the computer to perform each piece. The ability to break down a problem and see how to write a program is an ability that's independent of any specific programming language.
+
+However, jumping straight to the second type of tutorial can be a little overwhelming to some people, so it may be beneficial to work through the first type of tutorial which focuses more on syntax before moving on to the second.
+
+In contrast, some people can't effectively learn this way -- the details don't really "stick" until you see how they can be practically applied and used. In that case, you may want to consider skipping the first type and moving on the second.
+
+In addition, if you're an experienced programmer and just want to learn a new programming language, tutorials that fall under the second category might be a waste of time for you since you already know how to program and only need to acquire info about the first. 
+
+Most people need a mixture between the two, and indeed most resources do have aspects of both. 
+
+However, whenever I explicitly state that a resource tends to "focus on syntax", I mean that it generally seems to lean towards the first category. When I say that a resource "focuses on practical application" or is "heavy in theory" or "is rigorous", I mean that it leans towards the second category. 
+
+And finally, there's a sort of third "pseudo-category" -- resources that teach how to write "idiomatic code". Every language has a slightly different philosophy and approach to problem-solving, and their own quirks and unique traits, and it does take some time to learn how to most effectively take advantage of these traits and "work with" the language. 
+
+Resources that teach writing idiomatic code are an extension of category one, except geared at programmers who already have some experience with the language and already know how to program. They're generally meant for more experienced programmers, and are good books to read if you want to elevate your skill in a language from the beginner level to an intermediate level.
+
+In general, anything produced by universities and most books tend to lean towards the second category. Anything by Codecademy and Khan Academy, and any interactive tutorials tend to lean towards the first. Everything else will vary.
 
 ### Warning 
 
@@ -304,85 +330,187 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
 
 - Online courses:
     - Codecademy has several courses related to web development.
-        - [Make a website](http://www.codecademy.com/skills/make-a-website)
-        - [Make an interactive website](http://www.codecademy.com/skills/make-an-interactive-website)
-        - [HTML & CSS](http://www.codecademy.com/tracks/web)
-        - [JavaScript](http://www.codecademy.com/tracks/javascript)
-        - [jQuery](http://www.codecademy.com/tracks/jquery)
+        - [Make a website][webdev-cc-make-website]
+        - [Make an interactive website][webdev-cc-make-interactive]
+        - [HTML & CSS][webdev-cc-html-css]
+        - [JavaScript][webdev-cc-js]
+        - [jQuery][webdev-cc-jquery]
     - So does Udacity:
-        - [Intro to HTML and CSS](https://www.udacity.com/course/ud304)
-        - [JavaScript Basics](https://www.udacity.com/course/ud804) - does require some prior programming experience.
-    - Open Culture's [Building Dynamic Websites](http://cs75.tv/2010/fall/) - hosted by Harvard.
-    - Khan Academy has a series of [three courses](https://www.khanacademy.org/computing/computer-programming) on introductory Javascript that focuses on drawing graphics and animations, and making games.
-    - Team Treehouse has a series of courses on [HTML](teamtreehouse.com/features/html), [CSS](http://teamtreehouse.com/features/css), and [Javascript](http://teamtreehouse.com/features/javascript) - allows a free 14-day trial, but later requires payment.
+        - [Intro to HTML and CSS][webdev-uda-html-css]
+        - [JavaScript Basics][webdev-uda-js]  
+          Does require some prior programming experience.
+    - Open Culture's [Building Dynamic Websites][webdev-open-dynamic]  
+      Hosted by Harvard, and covers a wide variety of topics. 
+    - Khan Academy has a series of [three courses][webdev-khan] on introductory Javascript that focuses on drawing graphics and animations, and making games.
+    - Team Treehouse has a series of courses on [HTML][webdev-treehouse-js], [CSS][webdev-treehouse-css], and [Javascript][webdev-treehouse-js]  
+      Allows a free 14-day trial, but later requires payment.
 - Interactive tutorials:
-    - [CSS3, please!](http://css3please.com/) - an interactive website that lets you dynamically change CSS rules to style an element on-screen. Not for beginners, but is a good way to discover advanced applications of CSS.
-- Exercises:
-    - [CSS Diner](http://flukeout.github.io/) - a series of exercises on using CSS selectors effectively.
+    - [CSS3, please!][webdev-please]  
+      An interactive website that lets you dynamically change CSS rules to style an element on-screen. Not for beginners, but is a good way to discover advanced applications of CSS.
 - Video tutorials: N/A
 - Books and tutorials (online):
-    - [MDN](https://developer.mozilla.org/en-US/docs/Web) - a series of tutorials covering HTML, CSS, JavaScript, and more.
-    - [HtmlDog](http://www.htmldog.com/) - similar to the above.
-    - [Eloquent JavaScript](http://eloquentjavascript.net/) - a book that teaches you how to write idiomatic and clean JavaScript. Assumes prior experience with JavaScript/another programming language.
-    - [A Re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) - a guide which gives a thorough and detailed overview of JavaScript.
-    - [JavaScript Frameworks Resources and Tutorials](http://resrc.io/list/18/javascript-frameworks/) - Currently features Angular.js, Backbone.js, D3.js, Dojo, Ember.js, Express.js, jQuery, Knockout.js, and Meteor.
+    - [Mozilla Developer Network][webdev-mdn] (MDN)  
+      A series of tutorials covering HTML, CSS, JavaScript, and more. Some tutorials are appropriate for beginners while other tutorials will be more advanced. 
+    - [HtmlDog][webdev-htmldog]  
+      Similar to the above, but targeted more specifically to beginners.
+    - [Eloquent JavaScript][webdev-eloquent]  
+      A book that teaches you how to write idiomatic and clean JavaScript. Assumes prior experience with JavaScript/another programming language.
+    - [A Re-introduction to JavaScript][webdev-js-reintroduction]  
+      A guide which gives a thorough and detailed overview of JavaScript.
+    - [JavaScript Frameworks Resources and Tutorials][webdev-js-frameworks]  
+      Currently features Angular.js, Backbone.js, D3.js, Dojo, Ember.js, Express.js, jQuery, Knockout.js, and Meteor.
     - More free books:
-        - [HTML and CSS](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#html--css)
-        - [JavaScript](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#javascript)
+        - [HTML and CSS][webdev-more-html-css]
+        - [JavaScript][webdev-more-js]
 - Books (paper):
-    - [JavaScript: The Good Parts](http://www.amazon.com/gp/product/0596517742) - a short book that covers the core aspects of JavaScript as well as info on writing idiomatic and clean JavaScript.
+    - [JavaScript: The Good Parts][webdev-the-good-parts]  
+      A short book that covers the core aspects of JavaScript as well as info on writing idiomatic and clean JavaScript.
+- Exercises:
+    - [CSS Diner][css-diner]  
+      A series of exercises on using CSS selectors effectively.
+  
+  [webdev-cc-make-website]: http://www.codecademy.com/skills/make-a-website
+  [webdev-cc-make-interactive]: http://www.codecademy.com/skills/make-an-interactive-website
+  [webdev-cc-html-css]: http://www.codecademy.com/tracks/web
+  [webdev-cc-js]: http://www.codecademy.com/tracks/javascript
+  [webdev-cc-jquery]: http://www.codecademy.com/tracks/jquery
+  [webdev-uda-html-css]: https://www.udacity.com/course/ud304
+  [webdev-uda-js]: https://www.udacity.com/course/ud804
+  [webdev-open-dynamic]: http://cs75.tv/2010/fall/
+  [webdev-khan]: https://www.khanacademy.org/computing/computer-programming
+  [webdev-treehouse-html]: http://teamtreehouse.com/features/html
+  [webdev-treehouse-css]: http://teamtreehouse.com/features/css
+  [webdev-treehouse-js]: http://teamtreehouse.com/features/javascript
+  
+  [webdev-please]: http://css3please.com/
+  
+  [webdev-mdn]: https://developer.mozilla.org/en-US/docs/Web
+  [webdev-htmldog]: http://www.htmldog.com/
+  [webdev-eloquent]: http://eloquentjavascript.net/
+  [webdev-js-reintroduction]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+  [webdev-js-frameworks]: http://resrc.io/list/18/javascript-frameworks/
+  [webdev-more-html-css]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#html--css
+  [webdev-more-js]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#javascript
+  
+  [webdev-the-good-parts]: http://www.amazon.com/gp/product/0596517742
+  
+  [webdev-css-diner]: http://flukeout.github.io/
     
 ### Lisp (Scheme, Common Lisp, Clojure, etc)
 
 - Online courses: N/A
 - Interactive tutorials:
-    - [Try Clojure](http://www.tryclj.com/) - an interactive tutorial for Clojure.
-- Exercises:
-    - [L-99](http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html) - a series of 99 problems designed to increase your proficiency in Lisp.
-    - [4Clojure](http://4clojure.com) - a series of exercises geared around learning Clojure.
+    - [Try Clojure][lisp-try-clojure]  
+      An interactive tutorial for basic Clojure.
 - Video tutorials: N/A
 - Books and tutorials (online):
-    - [The Nature of Lisp](http://www.defmacro.org/ramblings/lisp.html) - not really a tutorial on Lisp, but is instead an article on why so many people advocate Lisp and claim it will change your life.
-    - [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/) - SICP is the canonical introduction to Lisp, and used to be part of MIT's introduction to CS course (before they switched to Python).
-        - [SICP in Clojure](http://sicpinclojure.com/) - an amended version of SICP which uses Clojure instead of Scheme.
-    - [How to Design Programs](http://htdp.org/) - a competing book and philosophy of teaching to SICP.
-    - [Build Your Own Lisp](http://www.buildyourownlisp.com/) - walks you through how to write a Lisp interpreter in C, teaching both languages simultaneously.
-    - [Practical Common Lisp](http://www.gigamonkeys.com/book/) - an introductory book on Common Lisp.
-    - [Where to learn how to practically use Common Lisp](http://stackoverflow.com/q/7224823/646543) - an aggregation of books and resources on effectively using Common Lisp for programmers comming from an imperative world.
-    - [Learn Clojure](http://learn-clojure.com/) - a website collecting many links related to learning Lisp.
+    - [The Nature of Lisp][lisp-nature]  
+      Not really a tutorial on Lisp, but is instead an article on why so many people advocate Lisp and claim it will fundamentally change how you view code. Very good at explaining the philosophy of Lisp.
+    - [Structure and Interpretation of Computer Programs][lisp-sicp]  
+      SICP is the canonical introduction to Lisp, and used to be part of MIT's introduction to CS course (before they switched to Python).
+        - [SICP in Clojure][lisp-sicp-clojure]  
+          An amended version of SICP which uses Clojure instead of Scheme.
+    - [How to Design Programs][lisp-htdp]  
+      A competing book and philosophy of teaching to SICP. SICP tends to focus more on CS theory whereas HTDP tends to focus more on writing how to go about writing programs/analyzing problems.
+    - [Build Your Own Lisp][lisp-build]  
+      Walks you through how to write a Lisp interpreter in C, teaching both languages simultaneously.
+    - [Practical Common Lisp][lisp-learn-practical]  
+      An introductory book on Common Lisp. Covers practical and real-world applications of Common Lisp.
+    - [Where to learn how to practically use Common Lisp][lisp-learn-practical]  
+      An aggregation of books and resources on effectively using Common Lisp for programmers coming from an imperative world.
+    - [Learn Clojure][lisp-learn-clojure]  
+      A website collecting many links related to learning Lisp.
     - More free books:
-        - [Clojure](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#clojure)
-        - [Lisp](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#lisp) in general
-        - [Scheme](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#scheme)
+        - [Clojure][lisp-more-clojure]
+        - [Lisp][lisp-more-lisp] in general
+        - [Scheme][lisp-more-scheme]
 - Books (paper):
-    - [Land of Lisp](http://www.amazon.com/Land-Lisp-Learn-Program-Game/dp/1593272812) - a book that teaches Lisp via making games. For beginners.
+    - [Land of Lisp][lisp-land]  
+      A book that teaches Lisp (specifically Common Lisp) via making games. For beginners.
+- Exercises:
+    - [L-99][lisp-l99]  
+      A series of 99 problems designed to increase your proficiency in Lisp.
+    - [4Clojure][lisp-4clojure]  
+      A series of exercises geared around learning Clojure.
+   
+  [lisp-try-clojure]: http://www.tryclj.com/
+  
+  [lisp-nature]: http://www.defmacro.org/ramblings/lisp.html
+  [lisp-sicp]: http://mitpress.mit.edu/sicp/
+  [lisp-sicp-clojure]: http://sicpinclojure.com/
+  [lisp-htdp]: http://htdp.org/)
+  [lisp-build]: http://www.buildyourownlisp.com/
+  [lisp-practical]: http://www.gigamonkeys.com/book/
+  [lisp-learn-practical]: http://stackoverflow.com/q/7224823/646543
+  [lisp-learn-clojure]: http://learn-clojure.com/
+  [lisp-more-clojure]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#clojure
+  [lisp-more-lisp]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#lisp
+  [lisp-more-scheme]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#scheme
+  
+  [lisp-land]: http://www.amazon.com/Land-Lisp-Learn-Program-Game/dp/1593272812
+  
+  [lisp-l99]: http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html
+  [lisp-4clojure]: http://4clojure.com
 
 ### Java
 
 - Online courses:
-    - [Intro to Java Programming](https://www.udacity.com/course/cs046) - via Udacity. An objects-first introduction to Java.
+    - Udacity's [Intro to Java Programming][java-uda-intro]  
+      An objects-first introduction to Java.
     - MIT Open Courseware:
-        - [Introduction to Programming in Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/index.htm)
-        - [Introduction to Computers and Engineering Problem Solving](http://ocw.mit.edu/courses/civil-and-environmental-engineering/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/) - for beginners, emphasizes practical application of Java.
+        - [Introduction to Programming in Java][java-intro-to-prog]
+        - [Introduction to Computers and Engineering Problem Solving][java-mit-intro-to-computers]  
+          For beginners, emphasizes practical application of Java.
     - Stanford's 3-part "Introduction to Computer Science" series for beginners. The first course teaches Java, the latter two teaches C and C++.
-        - [Programming Methodology](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
-        - [Programming Abstractions](http://see.stanford.edu/see/courseinfo.aspx?coll=11f4f422-5670-4b4c-889c-008262e09e4e)
-        - [Programming Paradigms](http://see.stanford.edu/see/courseinfo.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee)
+        - [Programming Methodology][java-methodology]
+        - [Programming Abstractions][java-abstractions]
+        - [Programming Paradigms][java-paradigms]      
 - Interactive tutorials: 
-    - [Learn Java](http://www.learnjavaonline.org/) - an interactive tutorial that teaches basic Java.
-- Exercises: 
-    - [Practice-it](http://practiceit.cs.washington.edu/) - hosted by the University of Washington, starting with basic Java and finishing with data structures and algorithms. Requires (free) registration first.
+    - [Learn Java][java-learn-online]  
+      An interactive tutorial that teaches basic Java.
 - Video tutorials: N/A
 - Books and tutorials (online):
-    - [Learn by Doing](http://programmingbydoing.com/) - an introduction to Java for beginners, including exercises.
-    - [Think Java](http://greenteapress.com/thinkapjava/) - another introductory text on Java.
-    - [Thinking in Java, 4th edition](http://mindview.net/Books/TIJ4) - yet another introductory text.
-    - [TutorialsPoint's Java Tutorial](http://www.tutorialspoint.com/java/index.htm) - tends to focus mainly on syntax. May make a good reference.
-    - [The Java Tutorial](http://docs.oracle.com/javase/tutorial/) - the official Java tutorial.
-    - [Introduction to Computer Science using Java](http://chortle.ccsu.edu/java5/index.html)
-    - [More free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#java)
+    - [Introduction to Computer Science using Java][java-intro-cs]  
+      An introductory text on Java. Moves a bit slowly, but covers everything in great detail (including setup).
+    - [Learn by Doing][java-doing]  
+      An introductory text on Java. The tutorial is exercise-driven.
+    - [Think Java][java-think]  
+      Another introductory text on Java. The content is based on the "How to think like a Computer Scientist" series.
+    - [Thinking in Java, 3rd edition][java-thinking]  
+      Note: the fourth edition is the latest one, but currently is not free. The website can also be a little hard to navigate -- the direct download link is [here][java-thinking-direct]. Assumes some basic prior programming experience. 
+    - [TutorialsPoint's Java Tutorial][java-tutorialspoint]  
+      Tends to focus mainly on syntax. May also make a good reference.
+    - [The Java Tutorial][java-oracle]  
+      The official Java tutorial, produced by Oracle. Tends to focus on language features and syntax. 
+    - [More free books][java-more]
 - Books (paper):
-    - [Head First Java](http://www.amazon.com/Head-First-Java-2nd-Edition/dp/0596009208/) - a beginner's introduction to Java.
+    - [Head First Java][java-head]  
+      A beginner's introduction to Java. 
+- Exercises: 
+    - [Practice-it][java-practice-it]  
+      A series of exercises hosted by the University of Washington, starting with basic Java and finishing with data structures and algorithms. Requires (free) registration first before you can view or work on the exercises.
+   
+  [java-uda-intro]: https://www.udacity.com/course/cs046
+  [java-mit-intro-to-prog]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/index.htm
+  [java-mit-intro-to-computers]: http://ocw.mit.edu/courses/civil-and-environmental-engineering/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/
+  [java-methodology]: http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111
+  [java-abstractions]: http://see.stanford.edu/see/courseinfo.aspx?coll=11f4f422-5670-4b4c-889c-008262e09e4e
+  [java-paradigms]: http://see.stanford.edu/see/courseinfo.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee
+  
+  [java-learn-online]: http://www.learnjavaonline.org/
+  
+  [java-doing]: http://programmingbydoing.com/
+  [java-think]: http://greenteapress.com/thinkapjava/
+  [java-thinking]: http://www.mindview.net/Books/TIJ/
+  [java-thinking-direct]: http://www.mindviewinc.com/downloads/TIJ-3rd-edition4.0.zip
+  [java-tutorialspoint]: http://www.tutorialspoint.com/java/index.htm
+  [java-intro-cs]: http://chortle.ccsu.edu/java5/index.html
+  [java-oracle]: http://docs.oracle.com/javase/tutorial/
+  [java-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#java
+  
+  [java-head]: http://www.amazon.com/Head-First-Java-2nd-Edition/dp/0596009208/
+
+  [java-practice-it]: http://practiceit.cs.washington.edu/
 
 ### Perl
 
