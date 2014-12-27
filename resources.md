@@ -251,7 +251,7 @@ Note: Similar to C, C++ can be a finicky and difficult-to-teach language. Althou
       One of Wikibook's featured books. For beginners. Tends to focus on syntax, and would also make a good reference.
     - [The C# Yellow Book][csharp-yellow]  
       The introductory text used by the University of Hull.
-    - [C# Essentials][csharp-essential]  
+    - [C# Essentials][csharp-essentials]  
       An introductory text on C#. Also includes information on Windows Forms, Visual Studios, and making GUIs.
     - [Visual C# resources][csharp-visual]  
       Microsoft's official series of tutorials and guides on C# and .NET.
@@ -303,7 +303,7 @@ Note: Similar to C, C++ can be a finicky and difficult-to-teach language. Althou
     - [More free books][haskell-more]
 - Books (paper): N/A
 - Exercises:
-    - [H-99][haskell-99]  
+    - [H-99][haskell-h-99]  
       A collection of 99 problems designed to increase your proficiency in Haskell.
    
   [haskell-intro-func]: https://www.edx.org/course/introduction-functional-programming-delftx-fp101x#.VJw54f-kAA
@@ -316,7 +316,7 @@ Note: Similar to C, C++ can be a finicky and difficult-to-teach language. Althou
   [haskell-real-world]: http://book.realworldhaskell.org/
   [haskell-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#haskell
   
-  [haskell-H-99]: http://haskell.org/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems
+  [haskell-h-99]: http://haskell.org/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems
     
 ### HTML, CSS, and JavaScript
 
@@ -458,7 +458,7 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
     - Udacity's [Intro to Java Programming][java-uda-intro]  
       An objects-first introduction to Java.
     - MIT Open Courseware:
-        - [Introduction to Programming in Java][java-intro-to-prog]
+        - [Introduction to Programming in Java][java-mit-intro-to-prog]
         - [Introduction to Computers and Engineering Problem Solving][java-mit-intro-to-computers]  
           For beginners, emphasizes practical application of Java.
     - Stanford's 3-part "Introduction to Computer Science" series for beginners. The first course teaches Java, the latter two teaches C and C++.
