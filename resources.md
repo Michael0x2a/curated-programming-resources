@@ -637,7 +637,7 @@ If you're not sure which version to pick, my recommendation would be to pick the
     - [Pyschools][python-pyschools]  
       Exercises and challenges in Python. Challenges require (free) registration.
    
-  [python=codecademy]: http://www.codecademy.com/tracks/python
+  [python-codecademy]: http://www.codecademy.com/tracks/python
   [python-udacity]: https://www.udacity.com/course/ud036
   [python-coursera]: https://www.coursera.org/course/pythonlearn
   [python-mit-intro]: https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-0#.VJw5pv-kAA
@@ -723,7 +723,7 @@ There are two
 - Online courses: 
     - edX's [Programming in Scratch](https://www.edx.org/course/programming-scratch-harveymuddx-cs002x#.VJw5t_-kAA) - for beginners.
     - edX's [Middle-Years Computer Science](https://www.edx.org/course/middle-years-computer-science-harveymuddx-cs001x#.VJw5rP-kAA) - a course designed to help teachers design an engaging computer science curriculum for middle-schoolers using Scratch.
-- Interactive tutorials:
+- Interactive tutorials: N/A
 - Video tutorials: 
     - [Video tutorials][scratch-official] from Scratch's website  
       A collection of video tutorials on Scratch for absolute beginners. Very comprehensive.
