@@ -479,7 +479,7 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
     - [Thinking in Java, 3rd edition][java-thinking]  
       Note: the fourth edition is the latest one, but currently is not free. The website can also be a little hard to navigate -- the direct download link is [here][java-thinking-direct]. Assumes some basic prior programming experience. 
     - [TutorialsPoint's Java Tutorial][java-tutorialspoint]  
-      Tends to focus mainly on syntax. May also make a good reference.
+      An introduction to Java. Tends to focus mainly on syntax. May also make a good reference.
     - [The Java Tutorial][java-oracle]  
       The official Java tutorial, produced by Oracle. Tends to focus on language features and syntax. 
     - [More free books][java-more]
@@ -516,85 +516,201 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
 
 - Online courses: N/A
 - Interactive tutorials: N/A
-- Exercises:
-    - [Perl Quiz of the Week](http://perl.plover.com/qotw/) - a mailing list which sends out a new quiz/prompt once a week. Archives are also available.
 - Video tutorials: N/A
 - Books and tutorials (online):
-    - [Beginning Perl](http://www.perl.org/books/beginning-perl/) - a comprehensive and thorough introduction to Perl.
-    - [Impatient Perl](http://www.perl.org/books/impatient-perl/) - an accelerated guide for impatient people or people with prior programming experience. 
-    - [Learn Perl in about 2 hours 30 minutes](http://qntm.org/perl) - another accelerated guide for the impatient.
-    - [Modern Perl](http://modernperlbooks.com/books/modern_perl_2014/) - a guide on writing clean and idiomatic Perl code.
-    - [More free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#perl)
+    - [Beginning Perl][perl-beginning]  
+      A comprehensive and thorough introduction to Perl.
+    - [Modern Perl][perl-modern]  
+      A guide on writing clean and idiomatic Perl code. Very good for teaching the philosophy and fundamentals of Perl. Comprehensive and thorough. 
+    - [Impatient Perl][perl-impatient]  
+      An accelerated guide for impatient people or people with prior programming experience. 
+    - [Learn Perl in about 2 hours 30 minutes][perl-230]  
+      Another accelerated guide for the impatient. Geared towards people who have prior experience in another programming language.
+    - [More free books][perl-more]
+    - Perl.org also hosts a [list of recommended books][perl-books], many of which are available online for free.
 - Books (paper):
-    - [Learning Perl](http://www.amazon.com/Learning-Perl-Randal-L-Schwartz/dp/1449303587) - another introductory text.
-    - Perl.org hosts a [list of recommended books](http://www.perl.org/books/library.html), many of which are available online for free.
+    - [Learning Perl][perl-learning]  
+      An introductory text on Perl. Teaches on focusing syntax/the details of Perl, and not so much on how to program. Pragmatic and practical.
+- Exercises:
+    - [Perl Quiz of the Week][perl-qotw]  
+      A mailing list which sends out a new quiz/prompt once a week. Archives of past prompts are also available.
+   
+  [perl-beginning]: http://www.perl.org/books/beginning-perl/
+  [perl-modern]: http://modernperlbooks.com/books/modern_perl_2014/
+  [perl-impatient]: http://www.perl.org/books/impatient-perl/
+  [perl-230]: http://qntm.org/perl
+  [perl-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#perl
+  [perl-books]: http://www.perl.org/books/library.html
+  
+  [perl-learning]: http://www.amazon.com/Learning-Perl-Randal-L-Schwartz/dp/1449303587
+  
+  [perl-qotw]: http://perl.plover.com/qotw/
 
 ### PHP
 
-Note: while PHP can be very convenient, quick, and easy to use, it's also a language viewed negatively by many programmers. (See [PHP: a fractal of bad design](http://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)). If you do decide to learn PHP, just be aware of the fact that people will probably make fun of you at one point or another. If you're ok with that, more power to you.
+Note: while PHP can be very convenient, quick, and easy to use, it's also a language viewed negatively by many programmers. (See [PHP: a fractal of bad design][php-fractal]). If you do decide to learn PHP and adopt it as your language of choice, just be aware of the fact that people will probably make fun of you at one point or another. 
+
+Also, it's important to first learn [HTML and CSS][#html-css-and-javascript] before attempting to learn PHP. PHP is a language which attempts to "extend" and work with HTML, so may not fully make sense if you try and learn it before picking up basic web development.
 
 - Online courses: 
     - Codecademy's [PHP track](http://www.codecademy.com/en/tracks/php)
     - Team Treehouse's [PHP course](http://teamtreehouse.com/features/php) - allows a free 14-day trial, but later requires payment.
 - Interactive resources:
+    - [Learn PHP][php-learn]  
+      An interactive guide that teaches basic PHP.
 - Exercises:
 - Video tutorials: N/A
 - Books and tutorials (online):
+    - [PHP Manual][php-manual]
+      The official tutorial on PHP. Tends to focus on language features and syntax.
+    - [TutorialPoint's PHP Tutorial][php-tutorialspoint]  
+      An introduction to PHP. Tends to focus on syntax. May make a good reference.
+    - [PHP The Right Way][php-right-way]  
+      A comprehensive guide that covers modern best practices in PHP and attempts to address common flaws, misconceptions, and errors that many beginners (and many tutorials) seem to possess. Assumes some prior knowledge of PHP.
 - Books (paper):
-- Other:
+    - [PHP for Absolute Beginners][php-absolute]  
+      An introductory text on PHP.
+    - [PHP Solutions: Dynamic Web Design Made Easy, 2nd edition][php-solutions]  
+      An example-driven introduction to PHP.
+  
+  [php-learn]: http://www.learn-php.org/
+  
+  [php-fractal]: http://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/
+  
+  [php-manual]: http://php.net/manual/en/index.php
+  [php-tutorialspoint]: http://www.tutorialspoint.com/php/
+  [php-right-way]: http://www.phptherightway.com/
+  
+  [php-absolute]: http://www.amazon.com/PHP-Absolute-Beginners-Jason-Lengstorf/dp/1430268158/ref=dp_ob_title_bk
+  [php-solutions]: http://www.amazon.com/PHP-Solutions-Dynamic-Design-Made/dp/1430232498/ref=dp_ob_title_bk
 
 
 ### Python
-    
+
+Note: there are currently two versions of Python that are commonly taught and used -- Python 2, and Python 3. Python 3 is the most recent version, but for a variety of reasons Python 2 still is fairly popular among many developers.
+
+If you're not sure which version to pick, my recommendation would be to pick the resource which looks like the best fit for you, and just use whatever version they're recommending. Luckily, the differences between the two are very minor (at least from the perspective of the beginner), so there's really no difference if you learn using Python 2 vs Python 3. 
+
 - Online courses: 
-    - Codecademy's [Python track](http://www.codecademy.com/tracks/python) - for beginners; self-paced.
-    - Udacity's [Programming Foundations with Python](https://www.udacity.com/course/ud036) - requires some prior programming experience; focuses on object-oriented programming.
-    - Coursera's [Programming for Everybody (Python)](https://www.coursera.org/course/pythonlearn) - for beginners; requires registration.
-    - edx's [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-0#.VJw5pv-kAA).. The companion book can be [found here](http://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-0). The course is designed for beginners, part of a 2-part series, is self-paced, and has an emphasis on computation and data science.
-        -   MIT Open Courseware also offers a gentler "lead-in" course designed for those with no programming background that you can take before taking the above: [Building Programming Experience: A Lead-In to 6.001](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/).
-    - MIT Open Courseware's [A Gentle Introduction to Programming Using Python](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/) - for beginners.
-    - Team Treehouse's [Python course](http://teamtreehouse.com/features/python) - allows a free 14-day trial, but later requires payment.
+    - Codecademy's [Python track][python-codecademy]  
+      For beginners; tends to focus primarily on syntax.
+    - Udacity's [Programming Foundations with Python][python-udacity]  
+      Requires some prior programming experience; focuses on object-oriented programming.
+    - Coursera's [Programming for Everybody (Python)][python-coursera]  
+      For beginners; requires registration.
+    - edx's [Introduction to Computer Science and Programming Using Python][python-mit-intro]  
+      The companion book can be [found here][python-mit-intro-book]. The course is designed for beginners, part of a 2-part series, is self-paced, and has an emphasis on computation and data science.
+        -   MIT Open Courseware also offers a gentler "lead-in" course designed for those with no programming background that you can take before taking the above: [Building Programming Experience: A Lead-In to 6.001][python-mit-lead-in].
+    - MIT Open Courseware's [A Gentle Introduction to Programming Using Python][python-gentle]  
+      A gentler version of the above.
+    - Team Treehouse's [Python course][python-treehouse]  
+      Allows a free 14-day trial, but later requires payment.
 - Interactive resources:
-    - [LearnPython](http://learnpython.org) - an interactive online guide that teaches you basic Python step-by-step.
-    - [Try Python](http://www.trypython.org/) - another interactive online guide.
-- Exercises:
-    - [Pyschools](http://www.pyschools.com/) - exercises and challenges in Python. Challenges require (free) registration.
+    - [LearnPython][python-learn]  
+      An interactive online guide that teaches basic Python.
+    - [Try Python][python-try]  
+      Another interactive online guide.
 - Video tutorials: N/A
 - Books and tutorials (online):
-    - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/) - part of the "Learn X the Hard Way" series. Despite its name, this is one of the easiest introductions to Python available.
-    - The official Python tutorial (for [Python 2](https://docs.python.org/2/tutorial/) and [Python 3](https://docs.python.org/3/tutorial/). Moves a little quickly, but is very comprehensive and thorough. 
-    - [Dive into Python 3](http://www.diveintopython3.net/) - an accelerated introduction to Python. Warning: do NOT use "Dive into Python 2". It's very outdated.
-    - [Invent with Python](http://inventwithpython.com/) - teaches programming through the creation of computer games with Python and Pygame.
-    - [Program Arcade Games With Python And Pygame](http://ProgramArcadeGames.com) - a fantastic and thorough introduction to Python via making games.
-    - [pycrumbs](http://resrc.io/list/4/pycrumbs/) - a huge list of many useful articles, tutorials, and snippits on Python.
-    - [More free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python)
+    - [Learn Python the Hard Way][python-lpthw]  
+      Part of the "Learn X the Hard Way" series. Despite its name, this is one of the easiest introductions to Python available.
+    - How to Think Like a Computer Scientist ([Python 2 version][python-think-cs-2] and [Python 3 version][python-think-cs-3])  
+      A comprehensive introductory text on Python.
+    - [Think Python][python-think]  
+      Another comprehensive introductory text on Python. 
+    - The official Python tutorial (for [Python 2][python-official-2] and [Python 3][python-official-3]. Moves a little quickly, but is very comprehensive and thorough. 
+    - [Dive into Python 3][python-dive]  
+      An accelerated introduction to Python. Warning: do NOT use "Dive into Python 2". It's very outdated.
+    - [Program Arcade Games With Python And Pygame][python-arcade]  
+      A fantastic and thorough introduction to Python via making games. For beginners.
+    - [Invent with Python][python-invent]  
+      Teaches programming through the creation of computer games with Python and Pygame. For beginners.
+    - [The Hitchhiker's Guide to Python][python-hitchhiker]  
+      A comprehensive introduction to the Python ecosystem. Covers how to properly configure and set up a development environment in Python, best practices, writing idiomatic code, what the best 3rd party libraries are for different tasks, and shipping your code. Useful for both beginners and experts (however, the guide does not actually teach Python itself).
+    - [pycrumbs][python-pycrumbs]  
+      A huge list of many useful articles, tutorials, and snippits on Python, ranging from basic to advanced.
+    - [More free books][python-more]
 - Books (paper):
-    - [Import Python](http://importpython.com/books/) - a catalog of Python books (some are free)
-- Other:
-    - [Crunchy](http://code.google.com/p/crunchy/)
-    
-You can find a more comprehensive list here: http://www.reddit.com/r/learnpython/wiki/index
-
+    - [Import Python][python-import]  
+      A catalog of Python books (some are free)
+- Exercises:
+    - [Pyschools][python-pyschools]  
+      Exercises and challenges in Python. Challenges require (free) registration.
+   
+  [python=codecademy]: http://www.codecademy.com/tracks/python
+  [python-udacity]: https://www.udacity.com/course/ud036
+  [python-coursera]: https://www.coursera.org/course/pythonlearn
+  [python-mit-intro]: https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-0#.VJw5pv-kAA
+  [python-mit-intro-book]:http://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-0
+  [python-mit-lead-in]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/
+  [python-mit-gentle]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/
+  [python-treehouse]: http://teamtreehouse.com/features/python
+  
+  [python-learn]: http://learnpython.org
+  [python-try]: http://www.trypython.org/
+  
+  [python-lpthw]: http://learnpythonthehardway.org/book/
+  [python-think-cs-2]: http://www.openbookproject.net/thinkcs/python/english2e/
+  [python-think-cs-3]: http://www.openbookproject.net/thinkcs/python/english3e/
+  [python-think]: http://www.greenteapress.com/thinkpython/
+  [python-official-2]: https://docs.python.org/2/tutorial/
+  [python-official-3]: https://docs.python.org/3/tutorial/
+  [python-dive]: http://www.diveintopython3.net/
+  [python-invent]: http://inventwithpython.com/
+  [python-arcade]: http://ProgramArcadeGames.com
+  [python-hitchhiker]: https://python-guide.readthedocs.org/en/latest/
+  [python-pycrumbs]: http://resrc.io/list/4/pycrumbs/
+  [python-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python
+  
+  [python-import]: http://importpython.com/books/
+  
+  [python-pyschools]: http://www.pyschools.com/
 
 ### Ruby
 
 - Online courses: 
-    - Codecademy's [Ruby track](http://www.codecademy.com/tracks/ruby). For beginners, self-paced. 
-    - Team Treehouse's [Ruby course](http://teamtreehouse.com/features/ruby) - allows a free 14-day trial, but later requires payment.
+    - Codecademy's [Ruby track][ruby-codecademy]  
+      For beginners. Tends to focus on syntax.
+    - Team Treehouse's [Ruby course][ruby-treehouse]  
+      Allows a free 14-day trial, but later requires payment.
 - Interactive tutorials:
-    - [RubyMonk](http://rubymonk.com/) - interactive tutorials to help you learn basic and advanced Ruby.
-    - [TryRuby](http://tryruby.org) - an interactive online guide that teaches you basic Ruby step-by-step.
-    - [Learn Ruby](http://rubykoans.com/) - a downloadable set of interactive tutorials.
+    - [RubyMonk][ruby-rubymonk]  
+      A collection of interactive tutorials to help you learn basic and advanced Ruby.
+    - [TryRuby][ruby-try]  
+      An interactive online guide that teaches you basic Ruby step-by-step.
+    - [Learn Ruby][ruby-learn]  
+      A downloadable set of interactive tutorials.
 - Video tutorials: N/A
-- Exercises:
-    - [Ruby Quiz](http://rubyquiz.com/) - a series of exercises on writing programs in Ruby. New exercises are no longer being written, but the exercises are still very good.
 - Books and tutorials (online):
-    - [Learn Ruby The Hard Way](http://learncodethehardway.org/ruby/) - part of the "Learn X The Hard Way" series. Despite its name, this is one of the easiest introductions to Ruby available.
-    - [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) - a little quirky, but still very good.
-    - [More free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#ruby)
+    - [Learn Ruby The Hard Way][ruby-lrthw]  
+      Part of the "Learn X The Hard Way" series. Despite its name, this is one of the easiest introductions to Ruby available.
+    - [Why's (Poignant) Guide to Ruby][ruby-poignant]  
+      A little quirky, but still very good.
+    - [More free books][ruby-more]
 - Books (paper):
-    - [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1933988657) - a comprehensive tutorial.
-    - [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104) - a guide on how to write Ruby idiomatically and cleanly. This book assumes that you already know Ruby or some other programming language.
+    - [The Well-Grounded Rubyist][ruby-grounded]  
+      A comprehensive and thorough introduction to Ruby. For beginners.
+    - [Eloquent Ruby][ruby-eloquent]  
+      A guide on how to write Ruby idiomatically and cleanly. This book assumes that you already know Ruby or some other programming language.
+- Exercises:
+    - [Ruby Quiz][ruby-quiz]  
+      A series of exercises on writing programs in Ruby. New exercises are no longer being written, but the existing exercises are still very good.
+    
+  [ruby-codecademy]: http://www.codecademy.com/tracks/ruby
+  [ruby-treehouse]: http://teamtreehouse.com/features/ruby
+  
+  [ruby-rubymonk]: http://rubymonk.com/
+  [ruby-try]: http://tryruby.org
+  [ruby-learn]: http://rubykoans.com/
+  
+  [ruby-lrthw]: http://learncodethehardway.org/ruby/
+  [ruby-poignant]: http://mislav.uniqpath.com/poignant-guide/
+  [ruby-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#ruby
+  
+  [ruby-grounded]: http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1933988657
+  [ruby-eloquent]: http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104
+  
+  [ruby-quiz]: http://rubyquiz.com/
     
 ### Scratch
 
@@ -602,14 +718,42 @@ Scratch is a language wherein you create programs by dragging together and conne
 
 Because not many people may be familiar with Scratch, this section will contain resources that are helpful both for _learning_ Scratch, and _teaching_ Scratch.
 
+There are two 
+
 - Online courses: 
     - edX's [Programming in Scratch](https://www.edx.org/course/programming-scratch-harveymuddx-cs002x#.VJw5t_-kAA) - for beginners.
     - edX's [Middle-Years Computer Science](https://www.edx.org/course/middle-years-computer-science-harveymuddx-cs001x#.VJw5rP-kAA) - a course designed to help teachers design an engaging computer science curriculum for middle-schoolers using Scratch.
 - Interactive tutorials:
-- Video tutorials: N/A
-- Exercises:
+- Video tutorials: 
+    - [Video tutorials][scratch-official] from Scratch's website  
+      A collection of video tutorials on Scratch for absolute beginners. Very comprehensive.
 - Books and tutorials (online):
-- Books (paper):
+    - [Invent with Scratch!][scratch-invent]  
+      An introductory text on Scratch. For beginners.
+    - [Scratch for Budding Computer Scientists][scratch-budding]  
+      A short tutorial that takes a more formalized approach to teaching Scratch. Best suited for those with some prior experience.
+    - [Computer Science Concepts in Scratch][scratch-cs-concepts]  
+      A thorough introduction to Scratch. For beginners.
+    - [Scratch Advanced Topics][scratch-advanced]  
+      A collection of resources and guides on advanced usage of Scratch. Not for beginners.
+    - Reference guides: for [Scratch][scratch-reference] and [Snap/Build Your Own Blocks][scratch-snap-reference] (a variant of Scratch)  
+      Contains comprehensive descriptions of all language features. The Scratch reference will be useful for all levels, and the Snap reference will be particularly useful for those who are already proficient at programming in another language.
+    - [Scratch for Educators][scratch-educators]  
+      Scratch's official portal and collection of resources for teaching using Scratch.
+    - [More free books][scratch-more]
+- Books (paper): N/A
+- Exercises: N/A
+  
+  [scratch-official]: http://scratch.mit.edu/help/videos/
+  
+  [scratch-invent]: http://inventwithscratch.com/about/
+  [scratch-budding]: http://cs.harvard.edu/malan/scratch/index.php
+  [scratch-cs-concepts]: http://stwww.weizmann.ac.il/g-cs/scratch/scratch_en.html
+  [scratch-advanced]: http://wiki.scratch.mit.edu/wiki/Advanced_Topics_%28forum%29
+  [scratch-reference]: http://download.scratch.mit.edu/ScratchReferenceGuide14.pdf
+  [scratch-snap-reference]: http://snap.berkeley.edu/SnapManual.pdf
+  [scratch-educators]: http://scratch.mit.edu/educators/
+  [scratch-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#scratch
 
 ---
 
