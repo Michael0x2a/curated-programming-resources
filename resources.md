@@ -366,7 +366,7 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
     - [JavaScript: The Good Parts][webdev-the-good-parts]  
       A short book that covers the core aspects of JavaScript as well as info on writing idiomatic and clean JavaScript.
 - Exercises:
-    - [CSS Diner][css-diner]  
+    - [CSS Diner][webdev-css-diner]  
       A series of exercises on using CSS selectors effectively.
   
   [webdev-cc-make-website]: http://www.codecademy.com/skills/make-a-website
