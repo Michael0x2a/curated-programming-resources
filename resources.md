@@ -601,7 +601,7 @@ If you're not sure which version to pick, my recommendation would be to pick the
     - edx's [Introduction to Computer Science and Programming Using Python][python-mit-intro]  
       The companion book can be [found here][python-mit-intro-book]. The course is designed for beginners, part of a 2-part series, is self-paced, and has an emphasis on computation and data science.
         -   MIT Open Courseware also offers a gentler "lead-in" course designed for those with no programming background that you can take before taking the above: [Building Programming Experience: A Lead-In to 6.001][python-mit-lead-in].
-    - MIT Open Courseware's [A Gentle Introduction to Programming Using Python][python-gentle]  
+    - MIT Open Courseware's [A Gentle Introduction to Programming Using Python][python-mit-gentle]  
       A gentler version of the above.
     - Team Treehouse's [Python course][python-treehouse]  
       Allows a free 14-day trial, but later requires payment.
