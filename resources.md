@@ -619,6 +619,10 @@ If you're not sure which version to pick, my recommendation would be to pick the
     - [Think Python][python-think]  
       Another comprehensive introductory text on Python. 
     - The official Python tutorial (for [Python 2][python-official-2] and [Python 3][python-official-3]. Moves a little quickly, but is very comprehensive and thorough. 
+    - [Problem Solving with Algorithms and Data Structures][python-problem]  
+      A fantastic introduction to data structures and algorithms and other traditional 
+      computer science concepts using Python. While it does briefly cover Python syntax,
+      it assumes that you already have some basic prior experience.
     - [Dive into Python 3][python-dive]  
       An accelerated introduction to Python. Warning: do NOT use "Dive into Python 2". It's very outdated.
     - [Program Arcade Games With Python And Pygame][python-arcade]  
@@ -655,6 +659,7 @@ If you're not sure which version to pick, my recommendation would be to pick the
   [python-think]: http://www.greenteapress.com/thinkpython/
   [python-official-2]: https://docs.python.org/2/tutorial/
   [python-official-3]: https://docs.python.org/3/tutorial/
+  [python-problem]: http://interactivepython.org/runestone/static/pythonds/index.html
   [python-dive]: http://www.diveintopython3.net/
   [python-invent]: http://inventwithpython.com/
   [python-arcade]: http://ProgramArcadeGames.com
@@ -812,6 +817,10 @@ Unless otherwise noted, all of the resources in this category assume prior progr
     - See our [FAQ](http://www.reddit.com/r/learnprogramming/wiki/faq#wiki_where_can_i_find_practice_exercises_and_project_ideas.3F). All of the general exercises and exercises from programming competitions should be great for practicing.
 - Video tutorials: N/A
 - Books and tutorials (online):
+    - [Problem Solving with Algorithms and Data Structures][algo-problem]  
+      A very thorough introduction to data structures and algorithms. Although it uses 
+      Python, the main concepts taught should be applicable to every language. Starts with
+      a quick overview of Python for those unfamiliar to the language.
     - [Algorithms by Robert Sedgewick](http://algs4.cs.princeton.edu/home/) which is in Java and accompanies [these lectures](https://www.coursera.org/course/algs4partI) on Coursera.
     - [The Stony Brook Algorithm Repository](http://www3.cs.stonybrook.edu/~algorith/) - a comprehensive reference of many different data structures and algorithms.
     - [The Big-O Cheat Sheet](http://bigocheatsheet.com/) - a cheat sheet containing links and condensed information about the top most commonly-used/commonly-taught data structures and algorithms.
@@ -820,6 +829,7 @@ Unless otherwise noted, all of the resources in this category assume prior progr
     - [The Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steve-Skiena/dp/0387948600) - the first half of the book emphasizes the design and analysis of algorithms, and the second half is a catalog of the 75 most important algorithmic problems for reference. 
     - [How can I rebuild my base of algorithms/data structures knowledge?](http://stackoverflow.com/q/1697572/646543) - contains links to various recommended books and suggestions for improvement.
 
+  [algo-problem]: http://interactivepython.org/runestone/static/pythonds/index.html
 ---
 
 ## Tools
