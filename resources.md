@@ -31,9 +31,6 @@
         - [Windows and Windows Phones](#windows-and-windows-phones)
     - [Data structures and algorithms](#data-structures-and-algorithms)
 - [Tools](#tools)
-    - [Text editors and IDEs](#text-editors-and-ides)
-        - [Emacs](#emacs)
-        - [Vim](#vim)
     - [Version control](#version-control)
         - [Git](#git)
         - [Mercurial](#mercurial)
@@ -831,7 +828,9 @@ Unless otherwise noted, all of the resources in this category assume prior progr
 
   [algo-problem]: http://interactivepython.org/runestone/static/pythonds/index.html
 
-  ---
+---
+
+## Tools
 
 ### Version control
 
