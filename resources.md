@@ -764,7 +764,7 @@ There are two
 
 ## Other topics
 
-TODO: Come up with other topics to add?
+TODO: EXPAND AND POLISH
 
 ### Developing on specific platforms
 
@@ -830,32 +830,8 @@ Unless otherwise noted, all of the resources in this category assume prior progr
     - [How can I rebuild my base of algorithms/data structures knowledge?](http://stackoverflow.com/q/1697572/646543) - contains links to various recommended books and suggestions for improvement.
 
   [algo-problem]: http://interactivepython.org/runestone/static/pythonds/index.html
----
 
-## Tools
-
-TODO: Expand
-
-### Text editors and IDEs
-
-#### Emacs
-
-- Online courses:
-- Interactive tutorials: N/A
-- Exercises:
-- Video tutorials: N/A
-- Books and tutorials (online):
-- Books (paper):
-
-#### Vim
-
-- Online courses:
-- Interactive tutorials: N/A
-- Exercises:
-- Video tutorials: N/A
-- Books and tutorials (online):
-    - [Open Vim](http://www.openvim.com/tutorial.html)
-- Books (paper):
+  ---
 
 ### Version control
 
