@@ -592,17 +592,17 @@ Note: there are currently two versions of Python that are commonly taught and us
 If you're not sure which version to pick, my recommendation would be to pick the resource which looks like the best fit for you, and just use whatever version they're recommending. Luckily, the differences between the two are very minor (at least from the perspective of the beginner), so there's really no difference if you learn using Python 2 vs Python 3. 
 
 - Online courses: 
-    - Codecademy's [Python track][python-codecademy]  
-      For beginners; tends to focus primarily on syntax.
-    - Udacity's [Programming Foundations with Python][python-udacity]  
-      Requires some prior programming experience; focuses on object-oriented programming.
-    - Coursera's [Programming for Everybody (Python)][python-coursera]  
-      For beginners; requires registration.
     - edx's [Introduction to Computer Science and Programming Using Python][python-mit-intro]  
       The companion book can be [found here][python-mit-intro-book]. The course is designed for beginners, part of a 2-part series, is self-paced, and has an emphasis on computation and data science.
         -   MIT Open Courseware also offers a gentler "lead-in" course designed for those with no programming background that you can take before taking the above: [Building Programming Experience: A Lead-In to 6.001][python-mit-lead-in].
     - MIT Open Courseware's [A Gentle Introduction to Programming Using Python][python-mit-gentle]  
       A gentler version of the above.
+    - Coursera's [Programming for Everybody (Python)][python-coursera]  
+      For beginners; requires registration.
+    - Codecademy's [Python track][python-codecademy]  
+      For beginners; tends to focus primarily on syntax.
+    - Udacity's [Programming Foundations with Python][python-udacity]  
+      Requires some prior programming experience; focuses on object-oriented programming.
     - Team Treehouse's [Python course][python-treehouse]  
       Allows a free 14-day trial, but later requires payment.
 - Interactive resources:
@@ -618,7 +618,7 @@ If you're not sure which version to pick, my recommendation would be to pick the
       A comprehensive introductory text on Python.
     - [Think Python][python-think]  
       Another comprehensive introductory text on Python. 
-    - The official Python tutorial (for [Python 2][python-official-2] and [Python 3][python-official-3]. Moves a little quickly, but is very comprehensive and thorough. 
+    - The official Python tutorial (for [Python 2][python-official-2] and [Python 3][python-official-3]). Moves a little quickly, but is very comprehensive and thorough. 
     - [Problem Solving with Algorithms and Data Structures][python-problem]  
       A fantastic introduction to data structures and algorithms and other traditional 
       computer science concepts using Python. While it does briefly cover Python syntax,
