@@ -461,7 +461,10 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
     - Stanford's 3-part "Introduction to Computer Science" series for beginners. The first course teaches Java, the latter two teaches C and C++.
         - [Programming Methodology][java-methodology]
         - [Programming Abstractions][java-abstractions]
-        - [Programming Paradigms][java-paradigms]      
+        - [Programming Paradigms][java-paradigms]
+    - The University of Helsinki's "Object-Oriented programming with Java" series for beginners.
+        - [Part 1][java-helsinki-1]
+        - [Part 2][java-helsinki-2]
 - Interactive tutorials: 
     - [Learn Java][java-learn-online]  
       An interactive tutorial that teaches basic Java.
@@ -493,6 +496,8 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
   [java-methodology]: http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111
   [java-abstractions]: http://see.stanford.edu/see/courseinfo.aspx?coll=11f4f422-5670-4b4c-889c-008262e09e4e
   [java-paradigms]: http://see.stanford.edu/see/courseinfo.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee
+  [java-helsinki-1]: http://mooc.fi/courses/2013/programming-part-1/
+  [java-helsinki-2]: http://mooc.fi/courses/2013/programming-part-2/
   
   [java-learn-online]: http://www.learnjavaonline.org/
   
