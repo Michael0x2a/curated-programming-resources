@@ -816,7 +816,22 @@ Unless otherwise noted, all of the resources in this category assume prior progr
     - Khan Academy's [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 - Interactive tutorials: N/A
 - Exercises:
-    - See our [FAQ](http://www.reddit.com/r/learnprogramming/wiki/faq#wiki_where_can_i_find_practice_exercises_and_project_ideas.3F). All of the general exercises and exercises from programming competitions should be great for practicing.
+    - [Codingbat][algo-codingbat]  
+      Contains Java and Python exercises. For beginners and intermediate-level programmers.  
+    - [CodeAbbey][algo-codeabbey]  
+      Similar to Codingbat.
+    - [HackerRank][algo-hackerrank]  
+      Contains a large collection of exercises, from basic up to the competitive 
+      level. Good for both beginners and advanced programmers. Also holds their own
+      online competition.
+    - [TopCoder][algo-topcoder]  
+      Similar to HackerRank.
+    - [UVa Online Judge][algo-uva]  
+      A collection of programming problems and solutions from multiple programming 
+      competitions.
+    - [Project Euler][algo-euler]  
+      A collection of programming exercises. The exercises are more math-oriented, 
+      and are not always CS-oriented.
 - Video tutorials: N/A
 - Books and tutorials (online):
     - [Problem Solving with Algorithms and Data Structures][algo-problem]  
@@ -832,6 +847,13 @@ Unless otherwise noted, all of the resources in this category assume prior progr
     - [How can I rebuild my base of algorithms/data structures knowledge?](http://stackoverflow.com/q/1697572/646543) - contains links to various recommended books and suggestions for improvement.
 
   [algo-problem]: http://interactivepython.org/runestone/static/pythonds/index.html
+  [algo-codingbat]: http://codingbat.com/
+  [algo-codeabbey]: http://www.codeabbey.com/
+  [algo-hackerrank]: https://www.hackerrank.com/
+  [algo-topcoder]: http://www.topcoder.com/
+  [algo-uva]: http://uva.onlinejudge.org/
+  [algo-euler]: https://projecteuler.net/
+  
 
 ---
 
