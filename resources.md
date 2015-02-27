@@ -275,7 +275,7 @@ Note: Similar to C, C++ can be a finicky and difficult-to-teach language. Althou
   
   [csharp-sam]: http://www.amazon.com/Sams-Teach-Yourself-5-0-Hours/dp/0672336847
   [csharp-essential-book]: http://www.amazon.com/Essential-Edition-Microsoft-Windows-Development/dp/0321877586
-  [csharp-in-depth]: www.amazon.com/gp/product/161729134X
+  [csharp-in-depth]: http://www.amazon.com/gp/product/161729134X
   [csharp-effective]: http://www.amazon.com/Effective-Specific-Ways-Improve-Your/dp/0321245660
   [csharp-more-effective]: http://www.amazon.com/More-Effective-Specific-Ways-Improve/dp/0321485890
 
