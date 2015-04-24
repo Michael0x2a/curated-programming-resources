@@ -552,7 +552,7 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
 
 Note: while PHP can be very convenient, quick, and easy to use, it's also a language viewed negatively by many programmers. (See [PHP: a fractal of bad design][php-fractal]). If you do decide to learn PHP and adopt it as your language of choice, just be aware of the fact that people will probably make fun of you at one point or another. 
 
-Also, it's important to first learn [HTML and CSS][#html-css-and-javascript] before attempting to learn PHP. PHP is a language which attempts to "extend" and work with HTML, so may not fully make sense if you try and learn it before picking up basic web development.
+Also, it's important to first learn [HTML and CSS](#html-css-and-javascript) before attempting to learn PHP. PHP is a language which attempts to "extend" and work with HTML, so may not fully make sense if you try and learn it before picking up basic web development.
 
 - Online courses: 
     - Codecademy's [PHP track](http://www.codecademy.com/en/tracks/php)
