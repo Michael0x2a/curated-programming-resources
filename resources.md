@@ -616,6 +616,8 @@ If you're not sure which version to pick, my recommendation would be to pick the
 - Books and tutorials (online):
     - [Learn Python the Hard Way][python-lpthw]  
       Part of the "Learn X the Hard Way" series. Despite its name, this is one of the easiest introductions to Python available.
+    - [Automate the Boring Stuff with Python][python-automate]
+      A book for complete beginners. It is aimed at office workers, students, administrators, and hobbyists who want to learn how to write useful, practical programs rather than necessarily become software engineers. From the [Invent with Python][python-invent] author.
     - How to Think Like a Computer Scientist ([Python 2 version][python-think-cs-2] and [Python 3 version][python-think-cs-3])  
       A comprehensive introductory text on Python.
     - [Think Python][python-think]  
@@ -656,7 +658,8 @@ If you're not sure which version to pick, my recommendation would be to pick the
   
   [python-learn]: http://learnpython.org
   [python-try]: http://www.trypython.org/
-  
+
+  [python-automate]: http://automatetheboringstuff.com/
   [python-lpthw]: http://learnpythonthehardway.org/book/
   [python-think-cs-2]: http://www.openbookproject.net/thinkcs/python/english2e/
   [python-think-cs-3]: http://www.openbookproject.net/thinkcs/python/english3e/
