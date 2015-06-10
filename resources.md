@@ -636,6 +636,8 @@ If you're not sure which version to pick, my recommendation would be to pick the
     - [pycrumbs][python-pycrumbs]  
       A huge list of many useful articles, tutorials, and snippits on Python, ranging from basic to advanced.
     - [More free books][python-more]
+    - [PyMOTW][pymotw]
+      A tour of the Python standard library through short examples.
 - Books (paper):
     - [Import Python][python-import]  
       A catalog of Python books (some are free)
@@ -672,6 +674,7 @@ If you're not sure which version to pick, my recommendation would be to pick the
   [python-import]: http://importpython.com/books/
   
   [python-pyschools]: http://www.pyschools.com/
+  [pymotw]: http://pymotw.com/
 
 ### Ruby
 
