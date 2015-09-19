@@ -66,7 +66,7 @@ Scratch is a little different from other languages. It was designed from the gro
 
 ### How this page is organized
 
-This page is subdivded into three parts -- first, a "General resources" section that links to sites that tend to deliver high-quality content about a variety of topics, and a "Specific resources" section that provides resources on specific programming languages or topics. 
+This page is subdivided into three parts -- first, a "General resources" section that links to sites that tend to deliver high-quality content about a variety of topics, and a "Specific resources" section that provides resources on specific programming languages or topics. 
 
 In general, most resources available will fall between two categories -- online courses, and books + tutorials. Online courses tend to teach using video lectures, try and be more interactive, and try and emulate the structure of a course similar to ones you might take in college. In contrast, books and tutorials teach via written text and allow you to set your own pace.
 
@@ -74,34 +74,27 @@ In general, most resources available will fall between two categories -- online 
 
 Whether you prefer learning by watching a video or reading text is really a matter of personal preference. _I_ personally prefer reading, but your learning style might be completely different. You may need to explore and browse several different resources before you discover how you best learn.
 
-In addition, you'll find that most links, whether they're online courses, tutorials, or books, tend to focus on either one of two things:
+In addition, you'll find that most links, whether they're online courses, tutorials, or books, tend to focus on either one of three things:
 
-1. Some resources focus more on _coding_ and _syntax_ -- the particular details and rules about how a programming language works. 
-2. Other languages will focus on _programming_, _semantics_, or _computer science theory_ -- in other words, how to use a programming language to write something that works.
+1. Some resources focus on _programming_, _semantics_, or _computer science theory_ -- in other words, how to use a programming language to write something that works.
+2. Other resources will focus more on _coding_ and _syntax_ -- the particular details and rules about how a programming language works. 
+3. Other resources focus on teaching _idioms_ -- teaching best practices specific to that language, the underlying philosophy of that language, or teaching you about the different libraries available to you: the broader ecosystem.
 
-In general, the second model is ultimately where you want to end up with. Programming is all about taking a problem and breaking it up into small pieces until the pieces are small enough that you can write instructions telling the computer to perform each piece. The ability to break down a problem and see how to write a program is an ability that's independent of any specific programming language.
+If you're new to programming, the first model will be the best. Programming is all about applied problem solving: being able to take a problem, and break it up into smaller and smaller pieces until they're small enough to translate into computer code. Simply memorizing a collection of rules will not be very useful to you. You also need to learn how to _apply_ those rules.
 
-However, jumping straight to the second type of tutorial can be a little overwhelming to some people, so it may be beneficial to work through the first type of tutorial which focuses more on syntax before moving on to the second.
+However, if you already know how to program, then you most likely already know how to do this. In that case, you're going to want to use the second kind since it'll be easier to learn about the differences between the language you're learning and ones you already know.
 
-In contrast, some people can't effectively learn this way -- the details don't really "stick" until you see how they can be practically applied and used. In that case, you may want to consider skipping the first type and moving on the second.
+Once you've moved past the beginning phase, then it would be a good idea to try and move on to the third kind of resource, which will help teach you how to actually use and apply that language on a practical and professional level.
 
-In addition, if you're an experienced programmer and just want to learn a new programming language, tutorials that fall under the second category might be a waste of time for you since you already know how to program and only need to acquire info about the first. 
-
-Most people need a mixture between the two, and indeed most resources do have aspects of both. 
-
-However, whenever I explicitly state that a resource tends to "focus on syntax", I mean that it generally seems to lean towards the first category. When I say that a resource "focuses on practical application" or is "heavy in theory" or "is rigorous", I mean that it leans towards the second category. 
-
-And finally, there's a sort of third "pseudo-category" -- resources that teach how to write "idiomatic code". Every language has a slightly different philosophy and approach to problem-solving, and their own quirks and unique traits, and it does take some time to learn how to most effectively take advantage of these traits and "work with" the language. 
-
-Resources that teach writing idiomatic code are an extension of category one, except geared at programmers who already have some experience with the language and already know how to program. They're generally meant for more experienced programmers, and are good books to read if you want to elevate your skill in a language from the beginner level to an intermediate level.
-
-In general, anything produced by universities and most books tend to lean towards the second category. Anything by Codecademy and Khan Academy, and any interactive tutorials tend to lean towards the first. Everything else will vary.
+When I say that a resource is "heavy in theory" or "is rigorous", I mean that it leans towards the first category. When I say that a resource "focuses on syntax", I mean that it leans towards the second. And when I say a resource "focuses on idioms" or "on practical applications", I mean that it leans towards the third.
 
 ### Warning 
 
 This page is still a work-in-progress! Some sections may currently be incomplete, and some links may not yet be fully vetted. 
 
-Any contributions are welcome! To suggest a change, either make a pull request or submit an issue using the issue tracker to the right.
+If you would like to contribute, please see [CONTRIBUTING.md][contrib] for details.
+
+  [contrib]: https://github.com/Michael0x2a/curated-programming-resources/blob/master/CONTRIBUTING.md
 
 ## General resources
 
