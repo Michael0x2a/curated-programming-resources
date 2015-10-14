@@ -347,8 +347,6 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
       A book that teaches you how to write idiomatic and clean JavaScript. Assumes prior experience with JavaScript/another programming language.
     - [A Re-introduction to JavaScript][webdev-js-reintroduction]  
       A guide which gives a thorough and detailed overview of JavaScript.
-    - [JavaScript Frameworks Resources and Tutorials][webdev-js-frameworks]  
-      Currently features Angular.js, Backbone.js, D3.js, Dojo, Ember.js, Express.js, jQuery, Knockout.js, and Meteor.
     - More free books:
         - [HTML and CSS][webdev-more-html-css]
         - [JavaScript][webdev-more-js]
