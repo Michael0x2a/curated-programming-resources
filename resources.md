@@ -329,6 +329,8 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
         - [Intro to HTML and CSS][webdev-uda-html-css]
         - [JavaScript Basics][webdev-uda-js]  
           Does require some prior programming experience.
+    - So does freeCodeCamp
+        - [Contribute to a nonprofit website while learning full-stack web development][webdev-freecodecamp]
     - Open Culture's [Building Dynamic Websites][webdev-open-dynamic]  
       Hosted by Harvard, and covers a wide variety of topics. 
     - Khan Academy has a series of [three courses][webdev-khan] on introductory Javascript that focuses on drawing graphics and animations, and making games.
@@ -371,6 +373,7 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
   [webdev-treehouse-html]: http://teamtreehouse.com/features/html
   [webdev-treehouse-css]: http://teamtreehouse.com/features/css
   [webdev-treehouse-js]: http://teamtreehouse.com/features/javascript
+  [webdev-freecodecamp]: http://www.freecodecamp.com/map
   
   [webdev-please]: http://css3please.com/
   
