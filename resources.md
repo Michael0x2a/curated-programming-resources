@@ -74,23 +74,11 @@ In general, most resources available will fall between two categories -- online 
 
 Whether you prefer learning by watching a video or reading text is really a matter of personal preference. _I_ personally prefer reading, but your learning style might be completely different. You may need to explore and browse several different resources before you discover how you best learn.
 
-In addition, you'll find that most links, whether they're online courses, tutorials, or books, tend to focus on either one of three things:
-
-1. Some resources focus on _programming_, _semantics_, or _computer science theory_ -- in other words, how to use a programming language to write something that works.
-2. Other resources will focus more on _coding_ and _syntax_ -- the particular details and rules about how a programming language works. 
-3. Other resources focus on teaching _idioms_ -- teaching best practices specific to that language, the underlying philosophy of that language, or teaching you about the different libraries available to you: the broader ecosystem.
-
-If you're new to programming, the first model will be the best. Programming is all about applied problem solving: being able to take a problem, and break it up into smaller and smaller pieces until they're small enough to translate into computer code. Simply memorizing a collection of rules will not be very useful to you. You also need to learn how to _apply_ those rules.
-
-However, if you already know how to program, then you most likely already know how to do this. In that case, you're going to want to use the second kind since it'll be easier to learn about the differences between the language you're learning and ones you already know.
-
-Once you've moved past the beginning phase, then it would be a good idea to try and move on to the third kind of resource, which will help teach you how to actually use and apply that language on a practical and professional level.
-
-When I say that a resource is "heavy in theory" or "is rigorous", I mean that it leans towards the first category. When I say that a resource "focuses on syntax", I mean that it leans towards the second. And when I say a resource "focuses on idioms" or "on practical applications", I mean that it leans towards the third.
+When possible, I'll try and leave a description for each resource describing what their goal is, and what audience they're suitable for. Some resources focus on trying to give a comprehensive introduction for beginners, other resources are more suitable for people who are already somewhat experienced in a language and want to learn more.
 
 ### Warning 
 
-This page is still a work-in-progress! Some sections may currently be incomplete, and some links may not yet be fully vetted. 
+This page is still a work-in-progress, and will be updated slowly, time permitting. Some sections may currently be incomplete, and some links may not yet be fully vetted. 
 
 If you would like to contribute, please see [CONTRIBUTING.md][contrib] for details.
 
@@ -100,16 +88,14 @@ If you would like to contribute, please see [CONTRIBUTING.md][contrib] for detai
 
 ### Links to other big lists
 
-You can find a huge and utterly massive compendium of [list of free programming books and resources on github](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md). (It used to be hosted on StackOverflow, but was moved over to Github on October 2013).
-
-You can also find a meta "list of programming resources" aggregator here: http://resrc.io/
+You can find a large list of [list of free programming books and resources on github](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md). (It used to be hosted on StackOverflow, but was moved over to Github on October 2013).
 
 
 ### Online courses
 
 Online courses are an increasingly popular way for universities and professionals to teach programming and computer science in a structured format. As a result, new online courses will pop up all the time, so it's worth checking these resources periodically to see what's new.
 
-- [Codecademy](http://www.codecademy.com/) - offers free online courses in several different languages. However, Codecademy does have a tendency to teach only basic syntax, so you may need work through more tutorials after finishing Codecademy. Focuses mainly on web development, Ruby, and Python.
+- [Codecademy](http://www.codecademy.com/) - offers free online courses in several different languages. However, Codecademy does have a tendency to teach only basic syntax, so you must work through more tutorials after finishing Codecademy. Focuses mainly on web development, Ruby, and Python.
 - [Coursera](https://www.coursera.org/) - offers free online courses in many different fields from several different well-known universities. New courses are added every quarter, and content from old courses is typically archived. Because many courses appear to be new/may be a one-time thing, this page will not link to courses on Coursera unless it appears to be stable.
 - [Udacity](http://www.udacity.com/) - offers free computer science courses taught by industry experts. Udacity offers two kinds of courses -- regular courses and nanodegrees. Regular courses are free. Regular courses with one-on-one tutoring/code review requires a monthly fee. Nanodegrees are typically for people with some prior coding experience, and cost more money.
 - [edX](https://www.edx.org/) - a joint effort between MIT, Harvard, and Berkeley to provide free online versions of some of their courses.
@@ -133,6 +119,8 @@ In general, edX, OpenCulture, MIT OpenCourseware, and Stanford Engineering Every
 
 Note: C can be a finicky and difficult-to-teach language. Although the online courses and books are a good starting point and can take you a long way, the general consensus is that the best way to learn is through reading an actual book.
 
+In particular, I would strongly recommend that you follow the recommendations on [StackOverflow's C Book Guide and List][c-so-definitive], and use only the resources listed here if you're unable to obtain the books in the link.
+
 - Online courses:
     - MIT Open Courseware has a few:
         - [Practical Programming in C][c-mit-practical]  
@@ -146,8 +134,6 @@ Note: C can be a finicky and difficult-to-teach language. Although the online co
     - [Learn-C][c-learn-c]  
       An interactive online guide that teaches you basic C step-by-step.
 - Books and tutorials (online):
-   -  [Learn C The Hard Way][c-lcthw]  
-      Part of the "Learn X the Hard Way" series. Assumes you have prior programming experience. Currently incomplete, in progress. 
    -  [C Programming][c-c-programming]  
       One of Wikibooks' featured books. Tends to focus on teaching mainly syntax. A good starting point and reference.
    -  [Build Your Own Lisp][c-lisp]  
@@ -177,6 +163,8 @@ Note: C can be a finicky and difficult-to-teach language. Although the online co
 
 Note: Similar to C, C++ can be a finicky and difficult-to-teach language. Although the online courses and books are a good starting point and can take you a long way, the general consensus is that the best way to learn is through reading an actual book.
 
+As with C, I would strongly recommend picking a book on [StackOverflow's C++ Book Guide and List][cpp-so-definitive].
+
 - Online courses:
     - MIT Open Courseware has a few:
         - [Introduction to C++][cpp-mit-intro]  
@@ -200,8 +188,6 @@ Note: Similar to C, C++ can be a finicky and difficult-to-teach language. Althou
       A good introduction to basic C++.
     - [Learncpp.com][cpp-learn]  
       Tends to focus more on syntax, and less on programming. Might be useful for beginners, but as a reference, not a tutorial.
-    - [Linear C++][cpp-linear]  
-      A tutorial on C++ for people with some prior programming experience. Teaches by presenting and explaining a series of programs.
    - [More free books][cpp-more] 
 - Books (paper):
    - [The Definitive C++ Book Guide and List][cpp-so-definitive]  
@@ -221,7 +207,6 @@ Note: Similar to C, C++ can be a finicky and difficult-to-teach language. Althou
 
   [cpp-think-cs]: http://greenteapress.com/thinkcpp/index.html
   [cpp-learn]: http://www.learncpp.com/
-  [cpp-linear]: https://github.com/jesyspa/linear-cpp
   [cpp-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1
   
   [cpp-so-definitive]: http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
@@ -284,12 +269,16 @@ Note: Similar to C, C++ can be a finicky and difficult-to-teach language. Althou
 - Books and tutorials (online):
     - [Getting started with Haskell][haskell-getting-started]  
       A comprehensive meta-guide that suggests the recommended order for following Haskell tutorials from beginning to advanced.
+    - [Haskell Programming from first principles][haskell-first-principles]  
+      An extremely detailed and comprehensive guide to Python, suitable both for complete beginners to programming and more experienced programmers who want to learn Haskell. This is probably one of the best resources on learning Haskell to date -- the only downside is that it isn't free.
     - [Learn You a Haskell for Great Good][haskell-great-good]  
       A beginner's introduction to Haskell. Tends to focus on syntax.
     - [Haskell][haskell-wikibooks]  
       One of Wikibook's featured books. Covers basic to advanced Haskell. Very comprehensive.
     - [Real World Haskell][haskell-real-world]:  
       Covers how to use Haskell for practical applications. This is a good second book to read, after completing one of the above tutorials. 
+    - [State of the Haskell Ecosystem][haskell-ecosystem]:  
+      An overview of popular 3rd party libraries for accomplishing various tasks in Haskell.Not for absolute beginners, but more people interested in using Haskell to write practical and non-trivial applications.
     - [More free books][haskell-more]
 - Books (paper): N/A
 - Exercises:
@@ -301,9 +290,11 @@ Note: Similar to C, C++ can be a finicky and difficult-to-teach language. Althou
   [haskell-try]: http://tryhaskell.org/
   
   [haskell-getting-started]: http://stackoverflow.com/a/1016986/646543
+  [haskell-first-principles]: http://haskellbook.com/
   [haskell-great-good]: http://learnyouahaskell.com/
   [haskell-wikibooks]: http://en.wikibooks.org/wiki/Haskell
   [haskell-real-world]: http://book.realworldhaskell.org/
+  [haskell-ecosystem]: https://github.com/Gabriel439/post-rfc/blob/master/sotu.md
   [haskell-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#haskell
   
   [haskell-h-99]: http://haskell.org/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems
@@ -325,6 +316,7 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
         - [HTML & CSS][webdev-cc-html-css]
         - [JavaScript][webdev-cc-js]
         - [jQuery][webdev-cc-jquery]
+      Please note that Codecademy focuses only on _introducing_ programming languages. It is strongly recommended that you work through a more comprehensive beginner's tutorial after finishing Codecademy.
     - So does Udacity:
         - [Intro to HTML and CSS][webdev-uda-html-css]
         - [JavaScript Basics][webdev-uda-js]  
@@ -335,6 +327,8 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
     - Team Treehouse has a series of courses on [HTML][webdev-treehouse-js], [CSS][webdev-treehouse-css], and [Javascript][webdev-treehouse-js]  
       Allows a free 14-day trial, but later requires payment.
 - Interactive tutorials:
+    - [Free Code Camp][webdev-freecodecamp]  
+      A beginner's introduction to HTML, CSS, JavaScript, and other web technologies. Contains a large amount of exercises.
     - [CSS3, please!][webdev-please]  
       An interactive website that lets you dynamically change CSS rules to style an element on-screen. Not for beginners, but is a good way to discover advanced applications of CSS.
 - Video tutorials: N/A
@@ -347,8 +341,6 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
       A book that teaches you how to write idiomatic and clean JavaScript. Assumes prior experience with JavaScript/another programming language.
     - [A Re-introduction to JavaScript][webdev-js-reintroduction]  
       A guide which gives a thorough and detailed overview of JavaScript.
-    - [JavaScript Frameworks Resources and Tutorials][webdev-js-frameworks]  
-      Currently features Angular.js, Backbone.js, D3.js, Dojo, Ember.js, Express.js, jQuery, Knockout.js, and Meteor.
     - More free books:
         - [HTML and CSS][webdev-more-html-css]
         - [JavaScript][webdev-more-js]
@@ -371,6 +363,7 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
   [webdev-treehouse-html]: http://teamtreehouse.com/features/html
   [webdev-treehouse-css]: http://teamtreehouse.com/features/css
   [webdev-treehouse-js]: http://teamtreehouse.com/features/javascript
+  [webdev-freecodecamp]: https://www.freecodecamp.com/
   
   [webdev-please]: http://css3please.com/
   
@@ -378,7 +371,6 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
   [webdev-htmldog]: http://www.htmldog.com/
   [webdev-eloquent]: http://eloquentjavascript.net/
   [webdev-js-reintroduction]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
-  [webdev-js-frameworks]: http://resrc.io/list/18/javascript-frameworks/
   [webdev-more-html-css]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#html--css
   [webdev-more-js]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#javascript
   
@@ -548,7 +540,6 @@ Note: while PHP can be very convenient, quick, and easy to use, it's also a lang
 Also, it's important to first learn [HTML and CSS](#html-css-and-javascript) before attempting to learn PHP. PHP is a language which attempts to "extend" and work with HTML, so may not fully make sense if you try and learn it before picking up basic web development.
 
 - Online courses: 
-    - Codecademy's [PHP track](http://www.codecademy.com/en/tracks/php)
     - Team Treehouse's [PHP course](http://teamtreehouse.com/features/php) - allows a free 14-day trial, but later requires payment.
 - Interactive resources:
     - [Learn PHP][php-learn]  
@@ -586,6 +577,8 @@ Note: there are currently two versions of Python that are commonly taught and us
 
 If you're not sure which version to pick, my recommendation would be to pick the resource which looks like the best fit for you, and just use whatever version they're recommending. Luckily, the differences between the two are very minor (at least from the perspective of the beginner), so there's really no difference if you learn using Python 2 vs Python 3. 
 
+That said, when working on your own programs, I would always pick Python 3 unless you have good reason to otherwise. The Python community, with the exception of a few holdouts, is moving towards Python 3 and abandoning Python 2.
+
 - Online courses: 
     - edx's [Introduction to Computer Science and Programming Using Python][python-mit-intro]  
       The companion book can be [found here][python-mit-intro-book]. The course is designed for beginners, part of a 2-part series, is self-paced, and has an emphasis on computation and data science.
@@ -594,8 +587,6 @@ If you're not sure which version to pick, my recommendation would be to pick the
       A gentler version of the above.
     - Coursera's [Programming for Everybody (Python)][python-coursera]  
       For beginners; requires registration.
-    - Codecademy's [Python track][python-codecademy]  
-      For beginners; tends to focus primarily on syntax.
     - Udacity's [Programming Foundations with Python][python-udacity]  
       Requires some prior programming experience; focuses on object-oriented programming.
     - Team Treehouse's [Python course][python-treehouse]  
@@ -607,15 +598,13 @@ If you're not sure which version to pick, my recommendation would be to pick the
       Another interactive online guide.
 - Video tutorials: N/A
 - Books and tutorials (online):
-    - [Learn Python the Hard Way][python-lpthw]  
-      Part of the "Learn X the Hard Way" series. Despite its name, this is one of the easiest introductions to Python available.
     - [Automate the Boring Stuff with Python][python-automate]
-      A book for complete beginners. It is aimed at office workers, students, administrators, and hobbyists who want to learn how to write useful, practical programs rather than necessarily become software engineers. From the [Invent with Python][python-invent] author.
+      A book for complete beginners. It is aimed at office workers, students, administrators, and hobbyists who want to learn how to write practical programs rather than necessarily become software engineers. From the [Invent with Python][python-invent] author.
     - How to Think Like a Computer Scientist ([Python 2 version][python-think-cs-2] and [Python 3 version][python-think-cs-3])  
-      A comprehensive introductory text on Python.
+      A comprehensive introductory text on Python, focusing on teaching computer science fundamentals and problem-solving skills through Python. Suitable for beginners.
     - [Think Python][python-think]  
-      Another comprehensive introductory text on Python. 
-    - The official Python tutorial (for [Python 2][python-official-2] and [Python 3][python-official-3]). Moves a little quickly, but is very comprehensive and thorough. 
+      Another comprehensive introductory text on Python, with a similar focus as the previous resource. Also suitable for beginners.
+    - The official Python tutorial (for [Python 2][python-official-2] and [Python 3][python-official-3]). Moves a little quickly, but is very comprehensive and thorough. This is probably the best resource for experienced programmers who want to learn Python, since it doesn't linger for too long on basic material.
     - [Problem Solving with Algorithms and Data Structures][python-problem]  
       A fantastic introduction to data structures and algorithms and other traditional 
       computer science concepts using Python. While it does briefly cover Python syntax,
@@ -626,6 +615,8 @@ If you're not sure which version to pick, my recommendation would be to pick the
       A fantastic and thorough introduction to Python via making games. For beginners.
     - [Invent with Python][python-invent]  
       Teaches programming through the creation of computer games with Python and Pygame. For beginners.
+    - [Learn Python the Hard Way][python-lpthw]  
+      Part of the "Learn X the Hard Way" series. Focuses on teaching by making the students work through a large number of exercises.
     - [The Hitchhiker's Guide to Python][python-hitchhiker]  
       A comprehensive introduction to the Python ecosystem. Covers how to properly configure and set up a development environment in Python, best practices, writing idiomatic code, what the best 3rd party libraries are for different tasks, and shipping your code. Useful for both beginners and experts (however, the guide does not actually teach Python itself).
     - [pycrumbs][python-pycrumbs]  
@@ -640,7 +631,6 @@ If you're not sure which version to pick, my recommendation would be to pick the
     - [Pyschools][python-pyschools]  
       Exercises and challenges in Python. Challenges require (free) registration.
    
-  [python-codecademy]: http://www.codecademy.com/tracks/python
   [python-udacity]: https://www.udacity.com/course/ud036
   [python-coursera]: https://www.coursera.org/course/pythonlearn
   [python-mit-intro]: https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-0#.VJw5pv-kAA
@@ -675,8 +665,6 @@ If you're not sure which version to pick, my recommendation would be to pick the
 ### Ruby
 
 - Online courses: 
-    - Codecademy's [Ruby track][ruby-codecademy]  
-      For beginners. Tends to focus on syntax.
     - Team Treehouse's [Ruby course][ruby-treehouse]  
       Allows a free 14-day trial, but later requires payment.
 - Interactive tutorials:
@@ -688,10 +676,10 @@ If you're not sure which version to pick, my recommendation would be to pick the
       A downloadable set of interactive tutorials.
 - Video tutorials: N/A
 - Books and tutorials (online):
-    - [Learn Ruby The Hard Way][ruby-lrthw]  
-      Part of the "Learn X The Hard Way" series. Despite its name, this is one of the easiest introductions to Ruby available.
     - [Why's (Poignant) Guide to Ruby][ruby-poignant]  
       A little quirky, but still very good.
+    - [Learn Ruby The Hard Way][ruby-lrthw]  
+      Part of the "Learn X The Hard Way" series. Focuses on teaching Ruby through a series of self-guided exercises.
     - [More free books][ruby-more]
 - Books (paper):
     - [The Well-Grounded Rubyist][ruby-grounded]  
@@ -702,7 +690,6 @@ If you're not sure which version to pick, my recommendation would be to pick the
     - [Ruby Quiz][ruby-quiz]  
       A series of exercises on writing programs in Ruby. New exercises are no longer being written, but the existing exercises are still very good.
     
-  [ruby-codecademy]: http://www.codecademy.com/tracks/ruby
   [ruby-treehouse]: http://teamtreehouse.com/features/ruby
   
   [ruby-rubymonk]: http://rubymonk.com/
@@ -765,41 +752,18 @@ There are two
 
 ## Other topics
 
-TODO: EXPAND AND POLISH
+Note: this section of the guide is very much a work-in-progress.
 
 ### Developing on specific platforms
 
-Please see our [FAQ](http://www.reddit.com/r/learnprogramming/wiki/faq#wiki_how_do_i_get_starting_making_mobile_apps.2Fandroid_apps.2Fios_apps.2Fwindows_phone_apps.3F) for more information.
+### Mobile apps (Android, Mac and iOS, Windows)
 
-#### Android
+Due to my lack of experience working with mobile apps, I do not feel particularly comfortable recommending any particular resources regarding mobile development. This section of the guide might be expanded in the future, but for now, I would recommend following the recommendations listed here:
 
-- [Spreadsheet of Android resources](http://www.reddit.com/r/learnprogramming/comments/1dy9wj/im_a_cpa_who_learned_java_android_and_published/)
-- [List of Android learning resources](http://www.reddit.com/r/learnprogramming/comments/22xlu9/you_want_to_how_to_write_apps_for_android/)
-- [Google Code University](https://developers.google.com/university/) - also contains tutorials on other Google technologies.
-- [Developing Android Apps](https://www.udacity.com/course/ud853) - via Udacity. Assumes prior programming experience.
-- Team Treehouse's [Android course](http://teamtreehouse.com/features/android) - allows a free 14-day trial, but later requires payment.
-- [More free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#android)
+- [Android](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#android)
+- [iOS](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#ios)
+- [Windows](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#windows-phone)
 
-#### Mac and iOS
-
-- [List of iOS learning resources](http://www.reddit.com/r/learnprogramming/comments/22w8sk/you_want_to_know_where_to_start_for_writing_apps/)
-- [List of iOS Video Tutorials](http://www.reddit.com/r/learnprogramming/comments/22zkce/want_to_learn_ios_development_best_video/)
-- Apple's [iOS Developer Library](https://developer.apple.com/library/ios/navigation/)
-- Apple's [Mac Developer Library](https://developer.apple.com/library/mac/navigation/)
-- [Intro to iOS App Development with Swift](https://www.udacity.com/course/ud585) - via Udacity. Assumes prior programming experience.
-- Team Treehouse's [iOS course](http://teamtreehouse.com/features/ios) - allows a free 14-day trial, but later requires payment.
-- [More free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#ios)
-
-#### Windows and Windows phones
-    
-- Microsoft's [Developer Guides](http://msdn.microsoft.com/en-us/vstudio/cc136611)
-- Microsoft's [App Hub](http://create.msdn.com/en-US/education/catalog/) - resources for mobile and XNA game development.
-- More free books:
-    - [.NET](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#net-framework)
-    - [Windows 8 and Windows Phone](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#windows-8)
-
-TODO: Expand? Don't want to duplicate too much existing content.
-        
 ### Data structures and algorithms
 
 Unless otherwise noted, all of the resources in this category assume prior programming experience.
