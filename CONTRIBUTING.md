@@ -1,21 +1,16 @@
 # Contributing
 
-Thank you for contributing! 
+Due to lack of time on my part, I tend to be very conservative about accepting
+requests or new resources.
 
-You can contribute by either creating a pull request or by filing an
-[issue][is] on the issue tracker. In general, try and keep to one
-suggested change per pull request/issue. It's easier to work with a
-series of many small suggested changes rather then one large suggested
-change.
+I prefer to personally vet all resources before I feel comfortable enough to
+accept them, and so it might take a few weeks to a few months for me to fully
+evaluate the resource, depending on how much spare time I have.
 
-When suggesting a new resource or link to add, be sure to...
+That said, if you have a resource recommendation or any suggestions for improvement,
+feel free to file them in the issue tracker or submit a pull request.
 
-1.  Include a link to the resources and a brief description or annotation.
-2.  Make sure the resource is high-quality
-3.  Try and avoid overlap or too much redundancy between existing resources.
-
-In addition, please keep in mind that at present time, I will generally NOT
-accept:
+Please keep in mind that at present time that I will generally NOT accept:
 
 1.  Resources specific to a particular library or framework.
 
