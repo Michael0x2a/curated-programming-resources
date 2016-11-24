@@ -594,6 +594,8 @@ That said, when working on your own programs, I would always pick Python 3 unles
 - Interactive resources:
     - [LearnPython][python-learn]  
       An interactive online guide that teaches basic Python.
+    - [Snakify][python-snakify]  
+      An interactive online guide for beginners with 100+ algorithmic exercises.
     - [Try Python][python-try]  
       Another interactive online guide.
 - Video tutorials: N/A
@@ -641,6 +643,7 @@ That said, when working on your own programs, I would always pick Python 3 unles
   
   [python-learn]: http://learnpython.org
   [python-try]: http://www.trypython.org/
+  [python-snakify]: https://snakify.org/
 
   [python-automate]: http://automatetheboringstuff.com/
   [python-lpthw]: http://learnpythonthehardway.org/book/
