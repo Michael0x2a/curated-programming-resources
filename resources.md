@@ -615,8 +615,6 @@ That said, when working on your own programs, I would always pick Python 3 unles
       A fantastic and thorough introduction to Python via making games. For beginners.
     - [Invent with Python][python-invent]  
       Teaches programming through the creation of computer games with Python and Pygame. For beginners.
-    - [Learn Python the Hard Way][python-lpthw]  
-      Part of the "Learn X the Hard Way" series. Focuses on teaching by making the students work through a large number of exercises.
     - [The Hitchhiker's Guide to Python][python-hitchhiker]  
       A comprehensive introduction to the Python ecosystem. Covers how to properly configure and set up a development environment in Python, best practices, writing idiomatic code, what the best 3rd party libraries are for different tasks, and shipping your code. Useful for both beginners and experts (however, the guide does not actually teach Python itself).
     - [pycrumbs][python-pycrumbs]  
