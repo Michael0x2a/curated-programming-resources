@@ -103,6 +103,7 @@ Online courses are an increasingly popular way for universities and professional
 - [MIT OpenCourseWare](http://ocw.mit.edu/index.htm) - static course materials taught at MIT. Unless otherwise noted, most content from this website tends to be very rigorous and fast-paced.
 - [Khan Academy](https://www.khanacademy.org/) - contains a few courses on programming and computer science; does contain many more courses on all kinds of topics (especially math).
 - [Stanford Engineering Everywhere](http://see.stanford.edu/see/courses.aspx) - static course materials taught at Stanford.
+- [HackSource](https://hacksource.xyz) - HackSource is a list of curated & searchable programming tutorials. It provides users one central place to search online courses from many of the content providers on this list like– Codecademy, Coursera, Udacity, Treehouse, edX and more.
 
 The following websites also contain a wide variety of tutorials for many different topics, but require payment and registration before you can access their courses.
 
