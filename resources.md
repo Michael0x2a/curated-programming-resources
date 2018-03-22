@@ -242,7 +242,7 @@ As with C, I would strongly recommend picking a book on [StackOverflow's C++ Boo
       A collection of tips and tricks to improve your C# code. Not for beginners.
 - Exercises: N/A
 
-  [csharp-fundamentals]: http://channel9.msdn.com/Series/C-Fundamentals-for-Absolute-Beginners
+  [csharp-fundamentals]: https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169
   [csharp-jump-start]: http://www.microsoftvirtualacademy.com/training-courses/developer-training-with-programming-in-c
   
   [csharp-programming]: http://en.wikibooks.org/wiki/C_Sharp_Programming
