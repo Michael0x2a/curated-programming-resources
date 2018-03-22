@@ -102,7 +102,7 @@ Online courses are an increasingly popular way for universities and professional
 - [OpenCulture](http://www.openculture.com/computer_science_free_courses) - similar to all of the above. Video lectures are typically available on iTunes or Youtube. Typically does **not** require you to complete assignments, unlike many other online courses.
 - [MIT OpenCourseWare](http://ocw.mit.edu/index.htm) - static course materials taught at MIT. Unless otherwise noted, most content from this website tends to be very rigorous and fast-paced.
 - [Khan Academy](https://www.khanacademy.org/) - contains a few courses on programming and computer science; does contain many more courses on all kinds of topics (especially math).
-- [Stanford Engineering Everywhere](http://see.stanford.edu/see/courses.aspx) - static course materials taught at Stanford.
+- [Stanford Engineering Everywhere](https://see.stanford.edu/Course) - static course materials taught at Stanford.
 
 The following websites also contain a wide variety of tutorials for many different topics, but require payment and registration before you can access their courses.
 
@@ -199,9 +199,9 @@ As with C, I would strongly recommend picking a book on [StackOverflow's C++ Boo
   [cpp-mit-intro]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/
   [cpp-mit-intro-2]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/
   [cpp-mit-effective]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/
-  [cpp-stan-methodology]: http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111
-  [cpp-stan-abstractions]: http://see.stanford.edu/see/courseinfo.aspx?coll=11f4f422-5670-4b4c-889c-008262e09e4e
-  [cpp-stan-paradigms]: http://see.stanford.edu/see/courseinfo.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee
+  [cpp-stan-methodology]: https://see.stanford.edu/Course/CS106A
+  [cpp-stan-abstractions]: https://see.stanford.edu/Course/CS106B
+  [cpp-stan-paradigms]: https://see.stanford.edu/Course/CS107
   
   [cpp-interactive]: http://nova.umuc.edu/~jarc/sdsd/
 
@@ -478,9 +478,9 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
   [java-uda-intro]: https://www.udacity.com/course/cs046
   [java-mit-intro-to-prog]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/index.htm
   [java-mit-intro-to-computers]: http://ocw.mit.edu/courses/civil-and-environmental-engineering/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/
-  [java-methodology]: http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111
-  [java-abstractions]: http://see.stanford.edu/see/courseinfo.aspx?coll=11f4f422-5670-4b4c-889c-008262e09e4e
-  [java-paradigms]: http://see.stanford.edu/see/courseinfo.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee
+  [java-methodology]: https://see.stanford.edu/Course/CS106A
+  [java-abstractions]: https://see.stanford.edu/Course/CS106B
+  [java-paradigms]: https://see.stanford.edu/Course/CS107
   [java-helsinki-1]: http://mooc.fi/courses/2013/programming-part-1/
   [java-helsinki-2]: http://mooc.fi/courses/2013/programming-part-2/
   
