@@ -214,8 +214,10 @@ As with C, I would strongly recommend picking a book on [StackOverflow's C++ Boo
 ### C-Sharp
 
 - Online courses:
-    - Microsoft Virtual Academy has a few free courses: 
-      - [C# Fundamentals for Absolute Beginners][csharp-fundamentals]  
+    - Microsoft Virtual Academy has a few free courses:
+      - [C# Fundamentals for Absolute Beginners (Updated)][csharp-fundamentals-new]
+        The latest official C# fundamentals course by Microsoft.
+      - [C# Fundamentals for Absolute Beginners (Outdated)][csharp-fundamentals]  
         A series of videos produced by Microsoft on learning C#. For beginners.
       - [Programming in C# Jump Start][csharp-jump-start]  
         Another series of videos produced by Microsoft. Assumes some prior knowledge of C#.
@@ -242,6 +244,7 @@ As with C, I would strongly recommend picking a book on [StackOverflow's C++ Boo
       A collection of tips and tricks to improve your C# code. Not for beginners.
 - Exercises: N/A
 
+  [csharp-fundamentals-new]: https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169
   [csharp-fundamentals]: http://channel9.msdn.com/Series/C-Fundamentals-for-Absolute-Beginners
   [csharp-jump-start]: http://www.microsoftvirtualacademy.com/training-courses/developer-training-with-programming-in-c
   
