@@ -594,6 +594,8 @@ That said, when working on your own programs, I would always pick Python 3 unles
 - Interactive resources:
     - [LearnPython][python-learn]  
       An interactive online guide that teaches basic Python.
+    - [Learnival][python-learnival]  
+      Interactive tutorial for beginners that focuses on practical exercises.
     - [Try Python][python-try]  
       Another interactive online guide.
 - Video tutorials: N/A
@@ -638,6 +640,7 @@ That said, when working on your own programs, I would always pick Python 3 unles
   [python-treehouse]: http://teamtreehouse.com/features/python
   
   [python-learn]: http://learnpython.org
+  [python-learnival]: http://learnival.com
   [python-try]: http://www.trypython.org/
 
   [python-automate]: http://automatetheboringstuff.com/
