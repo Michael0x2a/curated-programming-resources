@@ -39,7 +39,7 @@
 
 ### Motivation and goals
 
-Currently, we're living in a sort of "programming renaissance". Programming and computer science is become more popular then ever -- major initiatives like the [Hour of Code](http://hourofcode.com/us) is popularizing learning programming across the world, and the number of people interested in majoring in computer science is [growing](http://www.princeton.edu/engineering/news/archive/index.xml?id=10983) [exponentially](http://www.geekwire.com/2014/uw-computer-science-majors/). 
+Currently, we're living in a sort of "programming renaissance". [Programming and computer science](https://360techexplorer.com/programming/ "Programming and computer science") is become more popular then ever -- major initiatives like the [Hour of Code](http://hourofcode.com/us) is popularizing learning programming across the world, and the number of people interested in majoring in computer science is [growing](http://www.princeton.edu/engineering/news/archive/index.xml?id=10983) [exponentially](http://www.geekwire.com/2014/uw-computer-science-majors/). 
 
 As a consequence, there is an increasingly huge number of resources and tutorials being produced for beginners who want to learn to code, ranging from books to online tutorials to interactive websites to massive open online courses (MOOCS) like Codecademy and Coursera.
 
