@@ -437,6 +437,7 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
 ### Java
 
 - Online courses:
+    - The University of Helsinki's "[Java Programming][java-helsinki]" series for beginners.
     - Udacity's [Intro to Java Programming][java-uda-intro]  
       An objects-first introduction to Java.
     - MIT Open Courseware:
@@ -447,9 +448,6 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
         - [Programming Methodology][java-methodology]
         - [Programming Abstractions][java-abstractions]
         - [Programming Paradigms][java-paradigms]
-    - The University of Helsinki's "Object-Oriented programming with Java" series for beginners.
-        - [Part 1][java-helsinki-1]
-        - [Part 2][java-helsinki-2]
 - Interactive tutorials: 
     - [Learn Java][java-learn-online]  
       An interactive tutorial that teaches basic Java.
@@ -481,8 +479,7 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
   [java-methodology]: https://see.stanford.edu/Course/CS106A
   [java-abstractions]: https://see.stanford.edu/Course/CS106B
   [java-paradigms]: https://see.stanford.edu/Course/CS107
-  [java-helsinki-1]: http://mooc.fi/courses/2013/programming-part-1/
-  [java-helsinki-2]: http://mooc.fi/courses/2013/programming-part-2/
+  [java-helsinki]: https://java-programming.mooc.fi/
   
   [java-learn-online]: http://www.learnjavaonline.org/
   
