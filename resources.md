@@ -88,7 +88,7 @@ If you would like to contribute, please see [CONTRIBUTING.md][contrib] for detai
 
 ### Links to other big lists
 
-You can find a large list of [list of free programming books and resources on github](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md). (It used to be hosted on StackOverflow, but was moved over to Github on October 2013).
+You can find a large list of [list of free programming books and resources on github](https://github.com/EbookFoundation/free-programming-books). (It used to be hosted on StackOverflow, but was moved over to Github on October 2013).
 
 
 ### Online courses
