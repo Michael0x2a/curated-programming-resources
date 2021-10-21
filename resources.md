@@ -420,7 +420,7 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
   [lisp-nature]: http://www.defmacro.org/ramblings/lisp.html
   [lisp-sicp]: http://mitpress.mit.edu/sicp/
   [lisp-sicp-clojure]: http://sicpinclojure.com/
-  [lisp-htdp]: http://htdp.org/)
+  [lisp-htdp]: http://htdp.org/
   [lisp-build]: http://www.buildyourownlisp.com/
   [lisp-practical]: http://www.gigamonkeys.com/book/
   [lisp-learn-practical]: http://stackoverflow.com/q/7224823/646543
