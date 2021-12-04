@@ -627,7 +627,7 @@ That said, when working on your own programs, I would always pick Python 3 unles
     - [Pyschools][python-pyschools]  
       Exercises and challenges in Python. Challenges require (free) registration.
   
-  [python-mooc-helsinki]: https://programming-21.mooc-fi/
+  [python-mooc-helsinki]: https://programming-21.mooc.fi/
   [python-udacity]: https://www.udacity.com/course/ud036
   [python-coursera]: https://www.coursera.org/course/pythonlearn
   [python-mit-intro]: https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-0#.VJw5pv-kAA
