@@ -154,7 +154,9 @@ In particular, I would strongly recommend that you follow the recommendations on
   [c-lcthw]: http://c.learncodethehardway.org/book/
   [c-lisp]: http://www.buildyourownlisp.com/
   [c-c-programming]: http://en.wikibooks.org/wiki/C_Programming
-  [c-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c
+  [c-programming exercises]: https://www.codeforhunger.com/2020/12/Learn%20C%20programming%20in%20easy%20way%20%20codeforhunger.html
+ 
+ [c-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c
   
   [c-c-lang]: http://www.amazon.com/C-Programming-Language-2nd-Edition/dp/0131103628/
   [c-so-definitive]: http://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
