@@ -448,6 +448,9 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
         - [Programming Methodology][java-methodology]
         - [Programming Abstractions][java-abstractions]
         - [Programming Paradigms][java-paradigms]
+    - Scaler Topics [Java Programming][java-scaler-topics-intro]
+      A basic introduction to Java to start Java Programming.
+
 - Interactive tutorials: 
     - [Learn Java][java-learn-online]  
       An interactive tutorial that teaches basic Java.
@@ -495,7 +498,7 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
   [java-head]: http://www.amazon.com/Head-First-Java-2nd-Edition/dp/0596009208/
 
   [java-practice-it]: http://practiceit.cs.washington.edu/
-
+  [java-scaler-topics-intro]: https://www.scaler.com/topics/java/
 ### Perl
 
 - Online courses: N/A
