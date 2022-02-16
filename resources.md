@@ -589,6 +589,7 @@ That said, when working on your own programs, I would always pick Python 3 unles
       Requires some prior programming experience; focuses on object-oriented programming.
     - Team Treehouse's [Python course][python-treehouse]  
       Allows a free 14-day trial, but later requires payment.
+    - Scaler Topics [Python Tutorial][python-scaler]
 - Interactive resources:
     - [LearnPython][python-learn]  
       An interactive online guide that teaches basic Python.
@@ -635,6 +636,7 @@ That said, when working on your own programs, I would always pick Python 3 unles
   [python-mit-lead-in]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/
   [python-mit-gentle]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/
   [python-treehouse]: http://teamtreehouse.com/features/python
+  [python-scaler]: https://www.scaler.com/topics/python/
   
   [python-learn]: http://learnpython.org
   [python-try]: http://www.trypython.org/
