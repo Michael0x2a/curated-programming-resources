@@ -145,7 +145,7 @@ In particular, I would strongly recommend that you follow the recommendations on
     - [The Definitive C Book Guide and List][c-so-definitive]  
       A very well-maintained list of recommended books and resources on StackOverflow. Every book listed on this page is highly-recommended.
 - Exercises: N/A
-
+- [Top C Programming Courses]: https://www.codeforhunger.com/2022/02/top-c-programming-courses-for-beginners.html
   [c-mit-practical]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/
   [c-mit-intro]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/
   [c-mit-effective]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/
