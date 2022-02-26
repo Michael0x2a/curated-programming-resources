@@ -590,6 +590,8 @@ That said, when working on your own programs, I would always pick Python 3 unles
     - Team Treehouse's [Python course][python-treehouse]  
       Allows a free 14-day trial, but later requires payment.
 - Interactive resources:
+    - [futurecoder][python-futurecoder]
+      100% free and interactive Python course for beginners
     - [LearnPython][python-learn]  
       An interactive online guide that teaches basic Python.
     - [Try Python][python-try]  
@@ -636,6 +638,7 @@ That said, when working on your own programs, I would always pick Python 3 unles
   [python-mit-gentle]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/
   [python-treehouse]: http://teamtreehouse.com/features/python
   
+  [python-futurecoder]: https://futurecoder.io/
   [python-learn]: http://learnpython.org
   [python-try]: http://www.trypython.org/
 
