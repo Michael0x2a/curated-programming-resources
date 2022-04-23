@@ -329,6 +329,8 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
 - Interactive tutorials:
     - [Free Code Camp][webdev-freecodecamp]  
       A beginner's introduction to HTML, CSS, JavaScript, and other web technologies. Contains a large amount of exercises.
+    - [The Odin Project][webdev-odinproject]  
+      A beginner's full stack course. Contains a large amount of exercises.
     - [CSS3, please!][webdev-please]  
       An interactive website that lets you dynamically change CSS rules to style an element on-screen. Not for beginners, but is a good way to discover advanced applications of CSS.
 - Video tutorials: N/A
@@ -364,6 +366,7 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
   [webdev-treehouse-css]: http://teamtreehouse.com/features/css
   [webdev-treehouse-js]: http://teamtreehouse.com/features/javascript
   [webdev-freecodecamp]: https://www.freecodecamp.com/
+  [webdev-odinproject]: https://theodinproject.com
   
   [webdev-please]: http://css3please.com/
   
