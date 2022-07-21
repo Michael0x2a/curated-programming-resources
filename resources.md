@@ -475,6 +475,8 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
 - Exercises: 
     - [Practice-it][java-practice-it]  
       A series of exercises hosted by the University of Washington, starting with basic Java and finishing with data structures and algorithms. Requires (free) registration first before you can view or work on the exercises.
+    - [Complete Java Tutorial - Scaler Topics][java-scalertopics]
+      Java tutorial for beginners and intermediate learners. Advanced learners can brush up their knowledge on Java.
    
   [java-uda-intro]: https://www.udacity.com/course/cs046
   [java-mit-intro-to-prog]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/index.htm
@@ -498,6 +500,7 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
   [java-head]: http://www.amazon.com/Head-First-Java-2nd-Edition/dp/0596009208/
 
   [java-practice-it]: http://practiceit.cs.washington.edu/
+  [java-scalertopics]: https://www.scaler.com/topics/java/
 
 ### Perl
 
