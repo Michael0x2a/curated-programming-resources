@@ -112,6 +112,10 @@ The following websites also contain a wide variety of tutorials for many differe
 
 In general, edX, OpenCulture, MIT OpenCourseware, and Stanford Engineering Everywhere tend to contain more rigorous, thorough, and demanding courses, whereas Codecademy and Khan Academy tend to focus on giving a more gentle introduction to programming. Coursera and Udacity tend to vary between these two extremes.
 
+If you're not sure which online learning platform is right for you, you can use the following tool to discover & compare courses from dozens of online course providers. The website provides general rankings to give you an idea of the course quality and gives you the capability to easily filter out the courses that meet your requirements.
+
+- [bestcourses](http://www.bestcourses.io/) - easily discover & compare online courses from dozens of online learning platforms.
+
 
 ## Programming Languages
 
