@@ -654,7 +654,7 @@ That said, when working on your own programs, I would always pick Python 3 unles
   [python-invent]: http://inventwithpython.com/
   [python-arcade]: http://ProgramArcadeGames.com
   [python-hitchhiker]: https://python-guide.readthedocs.org/en/latest/
-  [python-pycrumbs]: http://resrc.io/list/4/pycrumbs/
+  [python-pycrumbs]: https://web.archive.org/web/20150408110826/http://resrc.io:80/list/4/pycrumbs/
   [python-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python
   
   [python-import]: http://importpython.com/books/
