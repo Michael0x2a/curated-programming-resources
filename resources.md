@@ -418,7 +418,6 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
     - [4Clojure][lisp-4clojure]  
       A series of exercises geared around learning Clojure.
    
-  [lisp-try-clojure]: http://www.tryclj.com/
   
   [lisp-nature]: http://www.defmacro.org/ramblings/lisp.html
   [lisp-sicp]: http://mitpress.mit.edu/sicp/
