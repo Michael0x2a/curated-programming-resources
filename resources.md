@@ -597,7 +597,8 @@ That said, when working on your own programs, I would always pick Python 3 unles
       An interactive online guide that teaches basic Python.
     - [Try Python][python-try]  
       Another interactive online guide.
-- Video tutorials: N/A
+- Video tutorials: 
+	- Youtube's [Sentdex Playlist: Python 3 Basics][sentdex-python3-basics] 
 - Books and tutorials (online):
     - [Automate the Boring Stuff with Python][python-automate]
       A book for complete beginners. It is aimed at office workers, students, administrators, and hobbyists who want to learn how to write practical programs rather than necessarily become software engineers. From the [Invent with Python][python-invent] author.
@@ -661,6 +662,7 @@ That said, when working on your own programs, I would always pick Python 3 unles
   
   [python-pyschools]: http://www.pyschools.com/
   [pymotw]: http://pymotw.com/
+  [sentdex-python3-basics]: https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
 
 ### Ruby
 
