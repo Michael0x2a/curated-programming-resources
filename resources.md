@@ -760,9 +760,9 @@ Note: this section of the guide is very much a work-in-progress.
 
 Due to my lack of experience working with mobile apps, I do not feel particularly comfortable recommending any particular resources regarding mobile development. This section of the guide might be expanded in the future, but for now, I would recommend following the recommendations listed here:
 
-- [Android](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#android)
-- [iOS](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#ios)
-- [Windows](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#windows-phone)
+- [Android](https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#android)
+- [iOS](https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#ios)
+- [Windows](https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#windows-phone)
 
 ### Data structures and algorithms
 
