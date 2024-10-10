@@ -88,17 +88,17 @@ If you would like to contribute, please see [CONTRIBUTING.md][contrib] for detai
 
 ### Links to other big lists
 
-You can find a large list of [list of free programming books and resources on github](https://github.com/EbookFoundation/free-programming-books). (It used to be hosted on StackOverflow, but was moved over to Github on October 2013).
+You can find a large [list of free programming books and resources on GitHub](https://ebookfoundation.github.io/free-programming-books). (It used to be hosted on StackOverflow, but was moved over to GitHub on October 2013).
 
 
 ### Online courses
 
 Online courses are an increasingly popular way for universities and professionals to teach programming and computer science in a structured format. As a result, new online courses will pop up all the time, so it's worth checking these resources periodically to see what's new.
 
-- [Codecademy](http://www.codecademy.com/) - offers free online courses in several different languages. However, Codecademy does have a tendency to teach only basic syntax, so you must work through more tutorials after finishing Codecademy. Focuses mainly on web development, Ruby, and Python.
-- [Coursera](https://www.coursera.org/) - offers free online courses in many different fields from several different well-known universities. New courses are added every quarter, and content from old courses is typically archived. Because many courses appear to be new/may be a one-time thing, this page will not link to courses on Coursera unless it appears to be stable.
-- [Udacity](http://www.udacity.com/) - offers free computer science courses taught by industry experts. Udacity offers two kinds of courses -- regular courses and nanodegrees. Regular courses are free. Regular courses with one-on-one tutoring/code review requires a monthly fee. Nanodegrees are typically for people with some prior coding experience, and cost more money.
-- [edX](https://www.edx.org/) - a joint effort between MIT, Harvard, and Berkeley to provide free online versions of some of their courses.
+- [Codecademy](http://www.codecademy.com) - offers free online courses in several different languages. However, Codecademy does have a tendency to teach only basic syntax, so you must work through more tutorials after finishing Codecademy. Focuses mainly on web development, Ruby, and Python.
+- [Coursera](https://www.coursera.org) - offers free online courses in many different fields from several different well-known universities. New courses are added every quarter, and content from old courses is typically archived. Because many courses appear to be new/may be a one-time thing, this page will not link to courses on Coursera unless it appears to be stable.
+- [Udacity](http://www.udacity.com) - offers free computer science courses taught by industry experts. Udacity offers two kinds of courses -- regular courses and nanodegrees. Regular courses are free. Regular courses with one-on-one tutoring/code review requires a monthly fee. Nanodegrees are typically for people with some prior coding experience, and cost more money.
+- [edX](https://www.edx.org) - a joint effort between MIT, Harvard, and Berkeley to provide free online versions of some of their courses.
 - [OpenCulture](http://www.openculture.com/computer_science_free_courses) - similar to all of the above. Video lectures are typically available on iTunes or Youtube. Typically does **not** require you to complete assignments, unlike many other online courses.
 - [MIT OpenCourseWare](http://ocw.mit.edu/index.htm) - static course materials taught at MIT. Unless otherwise noted, most content from this website tends to be very rigorous and fast-paced.
 - [Khan Academy](https://www.khanacademy.org/) - contains a few courses on programming and computer science; does contain many more courses on all kinds of topics (especially math).
@@ -106,9 +106,9 @@ Online courses are an increasingly popular way for universities and professional
 
 The following websites also contain a wide variety of tutorials for many different topics, but require payment and registration before you can access their courses.
 
-- [Team Treehouse](http://teamtreehouse.com/) - focuses on web and iOS development.
-- [Lynda](http://www.lynda.com/) - also includes courses on design, animation, video, business, and more.
-- [PluralSight](http://www.pluralsight.com/) - similar to Lynda, but with a focus on developer and IT courses.
+- [Team Treehouse](http://teamtreehouse.com) - focuses on web and iOS development.
+- [Lynda](http://www.lynda.com) - also includes courses on design, animation, video, business, and more.
+- [PluralSight](http://www.pluralsight.com) - similar to Lynda, but with a focus on developer and IT courses.
 
 In general, edX, OpenCulture, MIT OpenCourseware, and Stanford Engineering Everywhere tend to contain more rigorous, thorough, and demanding courses, whereas Codecademy and Khan Academy tend to focus on giving a more gentle introduction to programming. Coursera and Udacity tend to vary between these two extremes.
 
@@ -154,7 +154,7 @@ In particular, I would strongly recommend that you follow the recommendations on
   [c-lcthw]: http://c.learncodethehardway.org/book/
   [c-lisp]: http://www.buildyourownlisp.com/
   [c-c-programming]: http://en.wikibooks.org/wiki/C_Programming
-  [c-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c
+  [c-more]: https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#c
   
   [c-c-lang]: http://www.amazon.com/C-Programming-Language-2nd-Edition/dp/0131103628/
   [c-so-definitive]: http://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
@@ -168,12 +168,12 @@ As with C, I would strongly recommend picking a book on [StackOverflow's C++ Boo
 - Online courses:
     - MIT Open Courseware has a few:
         - [Introduction to C++][cpp-mit-intro]  
-          For beginners, is fast-paced.
+          For beginners. Fast-paced.
         - [Introduction to C Memory Management and C++ Object-Oriented Programming][cpp-mit-intro-2]  
           Geared towards people with prior experience in a programming language that is not C or C++.
         - [Effective Programming in C and C++][cpp-mit-effective]
         Similar to the above.
-    - Stanford's 3-part "Introduction to Computer Science" series for beginners. The first course teaches Java, the latter two teaches C and C++.
+    - Stanford's 3-part "Introduction to Computer Science" series for beginners. The first course teaches Java, the latter two teach C and C++.
         - [Programming Methodology][cpp-stan-methodology]
         - [Programming Abstractions][cpp-stan-abstractions]
         - [Programming Paradigms][cpp-stan-paradigms]
@@ -206,8 +206,8 @@ As with C, I would strongly recommend picking a book on [StackOverflow's C++ Boo
   [cpp-interactive]: http://nova.umuc.edu/~jarc/sdsd/
 
   [cpp-think-cs]: http://greenteapress.com/thinkcpp/index.html
-  [cpp-learn]: http://www.learncpp.com/
-  [cpp-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1
+  [cpp-learn]: http://www.learncpp.com
+  [cpp-more]: https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#cpp
   
   [cpp-so-definitive]: http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
    
@@ -249,7 +249,7 @@ As with C, I would strongly recommend picking a book on [StackOverflow's C++ Boo
   [csharp-yellow]: http://www.csharpcourse.com/
   [csharp-essentials]: http://www.techotopia.com/index.php/C_Sharp_Essentials
   [csharp-visual]: http://msdn.microsoft.com/en-us/vstudio/hh341490
-  [csharp-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-sharp
+  [csharp-more]: https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#csharp
   
   [csharp-sam]: http://www.amazon.com/Sams-Teach-Yourself-5-0-Hours/dp/0672336847
   [csharp-essential-book]: http://www.amazon.com/Essential-Edition-Microsoft-Windows-Development/dp/0321877586
@@ -295,7 +295,7 @@ As with C, I would strongly recommend picking a book on [StackOverflow's C++ Boo
   [haskell-wikibooks]: http://en.wikibooks.org/wiki/Haskell
   [haskell-real-world]: http://book.realworldhaskell.org/
   [haskell-ecosystem]: https://github.com/Gabriel439/post-rfc/blob/master/sotu.md
-  [haskell-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#haskell
+  [haskell-more]: https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#haskell
   
   [haskell-h-99]: http://haskell.org/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems
     
@@ -368,18 +368,18 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
   [webdev-freecodecamp]: https://www.freecodecamp.com/
   [webdev-odinproject]: https://theodinproject.com
   
-  [webdev-please]: http://css3please.com/
+  [webdev-please]: http://css3please.com
   
   [webdev-mdn]: https://developer.mozilla.org/en-US/docs/Web
-  [webdev-htmldog]: http://www.htmldog.com/
-  [webdev-eloquent]: http://eloquentjavascript.net/
+  [webdev-htmldog]: http://www.htmldog.com
+  [webdev-eloquent]: http://eloquentjavascript.net
   [webdev-js-reintroduction]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
-  [webdev-more-html-css]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#html--css
-  [webdev-more-js]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#javascript
+  [webdev-more-html-css]: https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#html-and-css
+  [webdev-more-js]: https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#javascript
   
   [webdev-the-good-parts]: http://www.amazon.com/gp/product/0596517742
   
-  [webdev-css-diner]: http://flukeout.github.io/
+  [webdev-css-diner]: http://flukeout.github.io
     
 ### Lisp (Scheme, Common Lisp, Clojure, etc)
 
@@ -418,19 +418,19 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
     - [4Clojure][lisp-4clojure]  
       A series of exercises geared around learning Clojure.
    
-  [lisp-try-clojure]: http://www.tryclj.com/
+  [lisp-try-clojure]: http://www.tryclj.com
   
   [lisp-nature]: http://www.defmacro.org/ramblings/lisp.html
   [lisp-sicp]: http://mitpress.mit.edu/sicp/
-  [lisp-sicp-clojure]: http://sicpinclojure.com/
+  [lisp-sicp-clojure]: http://sicpinclojure.com
   [lisp-htdp]: http://htdp.org/)
-  [lisp-build]: http://www.buildyourownlisp.com/
+  [lisp-build]: http://www.buildyourownlisp.com
   [lisp-practical]: http://www.gigamonkeys.com/book/
   [lisp-learn-practical]: http://stackoverflow.com/q/7224823/646543
-  [lisp-learn-clojure]: http://learn-clojure.com/
-  [lisp-more-clojure]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#clojure
-  [lisp-more-lisp]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#lisp
-  [lisp-more-scheme]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#scheme
+  [lisp-learn-clojure]: http://learn-clojure.com
+  [lisp-more-clojure]: https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#clojure
+  [lisp-more-lisp]: https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#lisp
+  [lisp-more-scheme]: https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#scheme
   
   [lisp-land]: http://www.amazon.com/Land-Lisp-Learn-Program-Game/dp/1593272812
   
@@ -484,16 +484,16 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
   [java-paradigms]: https://see.stanford.edu/Course/CS107
   [java-helsinki]: https://java-programming.mooc.fi/
   
-  [java-learn-online]: http://www.learnjavaonline.org/
+  [java-learn-online]: http://www.learnjavaonline.org
   
-  [java-doing]: http://programmingbydoing.com/
+  [java-doing]: http://programmingbydoing.com
   [java-think]: http://greenteapress.com/thinkapjava/
   [java-thinking]: http://www.mindview.net/Books/TIJ/
   [java-thinking-direct]: http://www.mindviewinc.com/downloads/TIJ-3rd-edition4.0.zip
   [java-tutorialspoint]: http://www.tutorialspoint.com/java/index.htm
   [java-intro-cs]: http://chortle.ccsu.edu/java5/index.html
   [java-oracle]: http://docs.oracle.com/javase/tutorial/
-  [java-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#java
+  [java-more]: https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#java
   
   [java-head]: http://www.amazon.com/Head-First-Java-2nd-Edition/dp/0596009208/
 
@@ -526,7 +526,7 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
   [perl-modern]: http://modernperlbooks.com/books/modern_perl_2014/
   [perl-impatient]: http://www.perl.org/books/impatient-perl/
   [perl-230]: http://qntm.org/perl
-  [perl-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#perl
+  [perl-more]: https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#perl
   [perl-books]: http://www.perl.org/books/library.html
   
   [perl-learning]: http://www.amazon.com/Learning-Perl-Randal-L-Schwartz/dp/1449303587
@@ -625,7 +625,7 @@ That said, when working on your own programs, I would always pick Python 3 unles
       A tour of the Python standard library through short examples.
 - Books (paper):
     - [Import Python][python-import]  
-      A catalog of Python books (some are free)
+      A catalog of Python books (some are free).
 - Exercises:
     - [Pyschools][python-pyschools]  
       Exercises and challenges in Python. Challenges require (free) registration.
@@ -640,9 +640,9 @@ That said, when working on your own programs, I would always pick Python 3 unles
   [python-treehouse]: http://teamtreehouse.com/features/python
   
   [python-learn]: http://learnpython.org
-  [python-try]: http://www.trypython.org/
+  [python-try]: http://www.trypython.org
 
-  [python-automate]: http://automatetheboringstuff.com/
+  [python-automate]: http://automatetheboringstuff.com
   [python-lpthw]: http://learnpythonthehardway.org/book/
   [python-think-cs-2]: http://www.openbookproject.net/thinkcs/python/english2e/
   [python-think-cs-3]: http://www.openbookproject.net/thinkcs/python/english3e/
@@ -655,12 +655,12 @@ That said, when working on your own programs, I would always pick Python 3 unles
   [python-arcade]: http://ProgramArcadeGames.com
   [python-hitchhiker]: https://python-guide.readthedocs.org/en/latest/
   [python-pycrumbs]: http://resrc.io/list/4/pycrumbs/
-  [python-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python
+  [python-more]: https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#python
   
-  [python-import]: http://importpython.com/books/
+  [python-import]: http://importpython.com/books
   
-  [python-pyschools]: http://www.pyschools.com/
-  [pymotw]: http://pymotw.com/
+  [python-pyschools]: http://www.pyschools.com
+  [pymotw]: http://pymotw.com
 
 ### Ruby
 
@@ -692,18 +692,18 @@ That said, when working on your own programs, I would always pick Python 3 unles
     
   [ruby-treehouse]: http://teamtreehouse.com/features/ruby
   
-  [ruby-rubymonk]: http://rubymonk.com/
+  [ruby-rubymonk]: http://rubymonk.com
   [ruby-try]: http://tryruby.org
-  [ruby-learn]: http://rubykoans.com/
+  [ruby-learn]: http://rubykoans.com
   
   [ruby-lrthw]: http://learncodethehardway.org/ruby/
   [ruby-poignant]: http://mislav.uniqpath.com/poignant-guide/
-  [ruby-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#ruby
+  [ruby-more]: https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#ruby
   
   [ruby-grounded]: http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1933988657
   [ruby-eloquent]: http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104
   
-  [ruby-quiz]: http://rubyquiz.com/
+  [ruby-quiz]: http://rubyquiz.com
     
 ### Scratch
 
@@ -746,7 +746,7 @@ There are two
   [scratch-reference]: http://download.scratch.mit.edu/ScratchReferenceGuide14.pdf
   [scratch-snap-reference]: http://snap.berkeley.edu/SnapManual.pdf
   [scratch-educators]: http://scratch.mit.edu/educators/
-  [scratch-more]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#scratch
+  [scratch-more]: https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#scratch
 
 ---
 
@@ -758,11 +758,11 @@ Note: this section of the guide is very much a work-in-progress.
 
 ### Mobile apps (Android, Mac and iOS, Windows)
 
-Due to my lack of experience working with mobile apps, I do not feel particularly comfortable recommending any particular resources regarding mobile development. This section of the guide might be expanded in the future, but for now, I would recommend following the recommendations listed here:
+Due to my lack of experience working with mobile apps, I don't feel particularly comfortable recommending any particular resources regarding mobile development. This section of the guide might be expanded in the future, but for now, I would recommend following the recommendations listed here:
 
-- [Android](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#android)
-- [iOS](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#ios)
-- [Windows](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#windows-phone)
+- [Android](https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#android)
+- [iOS](https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#ios)
+- [Windows](https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#windows-phone)
 
 ### Data structures and algorithms
 
@@ -810,12 +810,12 @@ Unless otherwise noted, all of the resources in this category assume prior progr
     - [How can I rebuild my base of algorithms/data structures knowledge?](http://stackoverflow.com/q/1697572/646543) - contains links to various recommended books and suggestions for improvement.
 
   [algo-problem]: http://interactivepython.org/runestone/static/pythonds/index.html
-  [algo-codingbat]: http://codingbat.com/
-  [algo-codeabbey]: http://www.codeabbey.com/
-  [algo-hackerrank]: https://www.hackerrank.com/
-  [algo-topcoder]: http://www.topcoder.com/
-  [algo-uva]: http://uva.onlinejudge.org/
-  [algo-euler]: https://projecteuler.net/
+  [algo-codingbat]: http://codingbat.com
+  [algo-codeabbey]: http://www.codeabbey.com
+  [algo-hackerrank]: https://www.hackerrank.com
+  [algo-topcoder]: http://www.topcoder.com
+  [algo-uva]: http://uva.onlinejudge.org
+  [algo-euler]: https://projecteuler.net
   
 
 ---
@@ -836,7 +836,7 @@ Unless otherwise noted, all of the resources in this category assume prior progr
 - Books and tutorials (online):
     - [Learn Version Control with Git](http://www.git-tower.com/learn/ebook/command-line/introduction) - an introduction to Git for the absolute beginner (via git-tower).
     - Git has an [official reference and book](http://git-scm.com/documentation)
-    - [More free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#git)
+    - [More free books](https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#git)
 - Books (paper): N/A
     
 #### Mercurial
@@ -847,8 +847,8 @@ Unless otherwise noted, all of the resources in this category assume prior progr
 - Video tutorials: N/A
 - Books and tutorials (online):
     - [HgInit](http://hginit.com/01.html) - a basic introduction to Mercurial.
-    - [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/)
-    - [More free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#mercurial)
+    - [Mercurial: The Definitive Guide](http://hgbook.red-bean.com)
+    - [More free books](https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#mercurial)
 - Books (paper): N/A
     
 TODO: Expand, add info on Subversion
