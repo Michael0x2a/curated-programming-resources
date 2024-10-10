@@ -270,7 +270,7 @@ As with C, I would strongly recommend picking a book on [StackOverflow's C++ Boo
     - [Getting started with Haskell][haskell-getting-started]  
       A comprehensive meta-guide that suggests the recommended order for following Haskell tutorials from beginning to advanced.
     - [Haskell Programming from first principles][haskell-first-principles]  
-      An extremely detailed and comprehensive guide to Python, suitable both for complete beginners to programming and more experienced programmers who want to learn Haskell. This is probably one of the best resources on learning Haskell to date -- the only downside is that it isn't free.
+      An extremely detailed and comprehensive guide to Haskell, suitable both for complete beginners to programming and more experienced programmers who want to learn Haskell. This is probably one of the best resources on learning Haskell to date -- the only downside is that it isn't free.
     - [Learn You a Haskell for Great Good][haskell-great-good]  
       A beginner's introduction to Haskell. Tends to focus on syntax.
     - [Haskell][haskell-wikibooks]  
