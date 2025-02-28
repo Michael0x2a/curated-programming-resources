@@ -24,6 +24,7 @@
     - [Python](#python)
     - [Ruby](#ruby)
     - [Scratch](#scratch)
+    - [Lua](#lua)
 - [Other topics](#other-topics)
     - [Developing on specific platforms](#developing-on-specific-platforms)
         - [Android](#android)
@@ -747,6 +748,33 @@ There are two
   [scratch-snap-reference]: http://snap.berkeley.edu/SnapManual.pdf
   [scratch-educators]: http://scratch.mit.edu/educators/
   [scratch-more]: https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#scratch
+
+### Lua
+
+Lua is a very lighthweight programming language that is great to learn if you're a beginner. Although alone lua is very limited. It is great for using it with other languages to create powerful tables used to store data. These tables are called metatables. The game, Roblox allows you to create your own games using their version of lua, called luau. This will not have any resources on luau.
+
+There are two great websites that explain everything. Programming in Lua provides an interpreter.
+
+-Online Courses
+    -Lua's [Programming in Lua](https://www.lua.org/) - This goes over everything there is in the entire language. This is good for beginners because there is a code interpreter.
+    - Tutorial Point's [Lua Tutorial](https://www.tutorialspoint.com/lua/index.htm) - This also is not very interactive. But it is easier to read because it is more colorful.
+    
+- Video Tutorials
+    - There are not many video tutorials on just plain lua. There are a few videos but they are not in order, but I will still link them.
+    - [Metatable Tutorial](https://www.youtube.com/watch?v=CYxMfVy5W00)
+    - [__call Metamethod and table functions](https://www.youtube.com/watch?v=Uz3B1rFZ4oM)
+    - [Understand Object Oriented Programming in Lua](https://www.youtube.com/watch?v=htn8vg0oMBg)
+    - [Everything from Varaibles to Metatables](https://www.youtube.com/watch?v=iMacxZQMPXs) - This tutorial has the most information.
+- Books
+    - These are not for free because they are books.
+    - [Programming in Lua](https://www.lua.org/pil/)
+    - [Programming in Lua e-book](https://store.feistyduck.com/products/programming-in-lua-fourth-edition-ebook)
+- Lua interpreters
+    - [Lua.org Interpreter](https://www.lua.org/demo.html)
+    -  Visual Studio Code or Visual Studio .lua files. 
+    -  [Visual Studio Code](https://code.visualstudio.com/download)
+
+There are not many resources on lua because it is not widely know, but that does not mean it is not useful. Many game studios such as Rovio (Angry Birds) use lua.
 
 ---
 
