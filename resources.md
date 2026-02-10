@@ -626,6 +626,9 @@ That said, when working on your own programs, I would always pick Python 3 unles
 - Books (paper):
     - [Import Python][python-import]  
       A catalog of Python books (some are free).
+    - [Python Workout, Second Edition][https://www.manning.com/books/python-workout-second-edition]  
+      200 carefully selected exercises that flex your Python programming muscles.
+  
 - Exercises:
     - [Pyschools][python-pyschools]  
       Exercises and challenges in Python. Challenges require (free) registration.
