@@ -219,7 +219,9 @@ As with C, I would strongly recommend picking a book on [StackOverflow's C++ Boo
         A series of videos produced by Microsoft on learning C#. For beginners.
       - [Programming in C# Jump Start][csharp-jump-start]  
         Another series of videos produced by Microsoft. Assumes some prior knowledge of C#.
-- Interactive tutorials: N/A
+- Interactive tutorials:
+    - [Codeasy][csharp-interactive-tutorial-codeasy]  
+      Tutorial is designed to help absolute beginners to start in programming. Education process is based on a story that drives you through challenges, that require C# coding to solve.
 - Video tutorials: N/A
 - Books and tutorials (online):
     - [C# Programming][csharp-programming]  
@@ -244,6 +246,8 @@ As with C, I would strongly recommend picking a book on [StackOverflow's C++ Boo
 
   [csharp-fundamentals]: https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169
   [csharp-jump-start]: http://www.microsoftvirtualacademy.com/training-courses/developer-training-with-programming-in-c
+  
+  [csharp-interactive-tutorial-codeasy]: https://codeasy.net
   
   [csharp-programming]: http://en.wikibooks.org/wiki/C_Sharp_Programming
   [csharp-yellow]: http://www.csharpcourse.com/
