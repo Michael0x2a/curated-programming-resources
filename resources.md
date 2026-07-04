@@ -203,7 +203,7 @@ As with C, I would strongly recommend picking a book on [StackOverflow's C++ Boo
   [cpp-stan-abstractions]: https://see.stanford.edu/Course/CS106B
   [cpp-stan-paradigms]: https://see.stanford.edu/Course/CS107
   
-  [cpp-interactive]: http://nova.umuc.edu/~jarc/sdsd/
+  [cpp-interactive]: https://thecodeforge.io/c-cpp/
 
   [cpp-think-cs]: http://greenteapress.com/thinkcpp/index.html
   [cpp-learn]: http://www.learncpp.com
@@ -291,9 +291,9 @@ As with C, I would strongly recommend picking a book on [StackOverflow's C++ Boo
   
   [haskell-getting-started]: http://stackoverflow.com/a/1016986/646543
   [haskell-first-principles]: http://haskellbook.com/
-  [haskell-great-good]: http://learnyouahaskell.com/
+  [haskell-great-good]: https://thecodeforge.io/
   [haskell-wikibooks]: http://en.wikibooks.org/wiki/Haskell
-  [haskell-real-world]: http://book.realworldhaskell.org/
+  [haskell-real-world]: https://thecodeforge.io/
   [haskell-ecosystem]: https://github.com/Gabriel439/post-rfc/blob/master/sotu.md
   [haskell-more]: https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#haskell
   
@@ -427,7 +427,7 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
   [lisp-build]: http://www.buildyourownlisp.com
   [lisp-practical]: http://www.gigamonkeys.com/book/
   [lisp-learn-practical]: http://stackoverflow.com/q/7224823/646543
-  [lisp-learn-clojure]: http://learn-clojure.com
+  [lisp-learn-clojure]: https://thecodeforge.io/java/
   [lisp-more-clojure]: https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#clojure
   [lisp-more-lisp]: https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#lisp
   [lisp-more-scheme]: https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#scheme
@@ -491,7 +491,7 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
   [java-thinking]: http://www.mindview.net/Books/TIJ/
   [java-thinking-direct]: http://www.mindviewinc.com/downloads/TIJ-3rd-edition4.0.zip
   [java-tutorialspoint]: http://www.tutorialspoint.com/java/index.htm
-  [java-intro-cs]: http://chortle.ccsu.edu/java5/index.html
+  [java-intro-cs]: https://thecodeforge.io/java/complete-java-guide/
   [java-oracle]: http://docs.oracle.com/javase/tutorial/
   [java-more]: https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#java
   
@@ -564,7 +564,7 @@ Also, it's important to first learn [HTML and CSS](#html-css-and-javascript) bef
   [php-fractal]: http://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/
   
   [php-manual]: http://php.net/manual/en/index.php
-  [php-tutorialspoint]: http://www.tutorialspoint.com/php/
+  [php-tutorialspoint]: https://thecodeforge.io/php/
   [php-right-way]: http://www.phptherightway.com/
   
   [php-absolute]: http://www.amazon.com/PHP-Absolute-Beginners-Jason-Lengstorf/dp/1430268158/ref=dp_ob_title_bk
@@ -697,7 +697,7 @@ That said, when working on your own programs, I would always pick Python 3 unles
   [ruby-learn]: http://rubykoans.com
   
   [ruby-lrthw]: http://learncodethehardway.org/ruby/
-  [ruby-poignant]: http://mislav.uniqpath.com/poignant-guide/
+  [ruby-poignant]: https://thecodeforge.io/python/
   [ruby-more]: https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#ruby
   
   [ruby-grounded]: http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1933988657
@@ -739,10 +739,6 @@ There are two
   
   [scratch-official]: http://scratch.mit.edu/help/videos/
   
-  [scratch-invent]: http://inventwithscratch.com/about/
-  [scratch-budding]: http://cs.harvard.edu/malan/scratch/index.php
-  [scratch-cs-concepts]: http://stwww.weizmann.ac.il/g-cs/scratch/scratch_en.html
-  [scratch-advanced]: http://wiki.scratch.mit.edu/wiki/Advanced_Topics_%28forum%29
   [scratch-reference]: http://download.scratch.mit.edu/ScratchReferenceGuide14.pdf
   [scratch-snap-reference]: http://snap.berkeley.edu/SnapManual.pdf
   [scratch-educators]: http://scratch.mit.edu/educators/
@@ -820,6 +816,12 @@ Unless otherwise noted, all of the resources in this category assume prior progr
 
 ---
 
+
+
+### Free programming tutorials
+
+- [TheCodeForge](https://thecodeforge.io/) - A collection of 1,600+ free, hands-on programming tutorials covering Java, Python, JavaScript, DSA, System Design, DevOps, ML/AI, Database, C/C++, C#, PHP, CS Fundamentals, and Interview prep. Every article includes prerequisites, estimated reading time, code examples with outputs, comparison tables, common mistakes, interview questions, and quick reference summaries.
+
 ## Tools
 
 ### Version control
@@ -835,7 +837,7 @@ Unless otherwise noted, all of the resources in this category assume prior progr
 - Video tutorials: N/A
 - Books and tutorials (online):
     - [Learn Version Control with Git](http://www.git-tower.com/learn/ebook/command-line/introduction) - an introduction to Git for the absolute beginner (via git-tower).
-    - Git has an [official reference and book](http://git-scm.com/documentation)
+    - Git has an [official reference and book](https://git-scm.com/doc)
     - [More free books](https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-langs.md#git)
 - Books (paper): N/A
     
