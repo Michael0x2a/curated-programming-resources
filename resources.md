@@ -17,6 +17,7 @@
     - [C#](#c-sharp)
     - [Haskell](#haskell)
     - [HTML, CSS, and JavaScript](#html-css-and-javascript)
+    - [TypeScript](#typescript)
     - [Lisp (Scheme, Common Lisp, Clojure, etc)](#lisp-scheme-common-lisp-clojure-etc)
     - [Java](#java)
     - [Perl](#perl)
@@ -380,6 +381,14 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
   [webdev-the-good-parts]: http://www.amazon.com/gp/product/0596517742
   
   [webdev-css-diner]: http://flukeout.github.io
+
+### TypeScript
+
+- Books and tutorials (online):
+    - [The Concise TypeScript Book][typescript-concise]
+      A free and open-source TypeScript book, from the fundamentals to advanced concepts.
+
+  [typescript-concise]: https://gibbok.github.io/typescript-book/
     
 ### Lisp (Scheme, Common Lisp, Clojure, etc)
 
